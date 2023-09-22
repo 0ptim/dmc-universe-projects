@@ -1,58 +1,58 @@
 [
-    {
-        "name": "Marketplace",
-        "tailwindColor": "bg-pink-500"
-    },
-    {
-        "name": "Yield Farming",
-        "tailwindColor": "bg-fuchsia-500"
-    },
-    {
-        "name": "Legal Entity",
-        "tailwindColor": "bg-violet-600"
-    },
-    {
-        "name": "Infrastructure",
-        "tailwindColor": "bg-indigo-500"
-    },
-    {
-        "name": "DEX",
-        "tailwindColor": "bg-blue-500"
-    },
-    {
-        "name": "Domains",
-        "tailwindColor": "bg-cyan-600"
-    },
-    {
-        "name": "Gambling",
-        "tailwindColor": "bg-teal-500"
-    },
-    {
-        "name": "Game",
-        "tailwindColor": "bg-emerald-500"
-    },
-    {
-        "name": "Stablecoin",
-        "tailwindColor": "bg-green-500"
-    },
-    {
-        "name": "Betting",
-        "tailwindColor": "bg-lime-500"
-    },
-    {
-        "name": "Bonding",
-        "tailwindColor": "bg-yellow-500"
-    },
-    {
-        "name": "Options",
-        "tailwindColor": "bg-amber-500"
-    },
-    {
-        "name": "Explorer",
-        "tailwindColor": "bg-orange-500"
-    },
-    {
-        "name": "NFT",
-        "tailwindColor": "bg-red-500"
-    }
+  {
+    "name": "Marketplace",
+    "tailwindColor": "bg-pink-500"
+  },
+  {
+    "name": "Yield Farming",
+    "tailwindColor": "bg-fuchsia-600"
+  },
+  {
+    "name": "Legal Entity",
+    "tailwindColor": "bg-violet-600"
+  },
+  {
+    "name": "Infrastructure",
+    "tailwindColor": "bg-indigo-500"
+  },
+  {
+    "name": "DEX",
+    "tailwindColor": "bg-blue-500"
+  },
+  {
+    "name": "Domains",
+    "tailwindColor": "bg-cyan-500"
+  },
+  {
+    "name": "Gambling",
+    "tailwindColor": "bg-teal-500"
+  },
+  {
+    "name": "Game",
+    "tailwindColor": "bg-emerald-500"
+  },
+  {
+    "name": "Stablecoin",
+    "tailwindColor": "bg-green-500"
+  },
+  {
+    "name": "Betting",
+    "tailwindColor": "bg-lime-500"
+  },
+  {
+    "name": "Bonding",
+    "tailwindColor": "bg-yellow-500"
+  },
+  {
+    "name": "Options",
+    "tailwindColor": "bg-amber-500"
+  },
+  {
+    "name": "Explorer",
+    "tailwindColor": "bg-orange-500"
+  },
+  {
+    "name": "NFT",
+    "tailwindColor": "bg-red-500"
+  }
 ]
