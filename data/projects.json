@@ -1,1157 +1,1103 @@
 [
-    {
-        "name": "Jellylabs",
-        "description": "TODO",
-        "longDescription": "TODO",
-        "mainURL": "https://jellyverse.org",
-        "img": "project_imgs/jelly-labs_banner.png",
-        "missionStatement": "TODO",
-        "inTheMarketYouTubeVideoId": "",
+  {
+    "name": "Jellylabs",
+    "description": "TODO",
+    "longDescription": "TODO",
+    "mainURL": "https://jellyverse.org",
+    "img": "jelly-labs_logo.svg",
+    "missionStatement": "TODO",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/jlyvrs",
+        "type": "X"
+      },
+      {
+        "url": "https://www.youtube.com/@jellyverse",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://t.me/jlyvrs",
+        "type": "Telegram"
+      },
+      {
+        "url": "https://www.reddit.com/r/jellyverse/",
+        "type": "Reddit"
+      }
+    ],
+    "team": [
+      {
+        "name": "Santiago",
+        "role": "Project Lead",
         "links": [
-            {
-                "url": "https://twitter.com/jlyvrs",
-                "type": "X"
-            },
-            {
-                "url": "https://www.youtube.com/@jellyverse",
-                "type": "YouTube"
-            },
-            {
-                "url": "https://t.me/jlyvrs",
-                "type": "Telegram"
-            },
-            {
-                "url": "https://www.reddit.com/r/jellyverse/",
-                "type": "Reddit"
-            }
-        ],
-        "team": [
-            {
-                "name": "Santiago",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Santiago__Sa",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Ben",
-                "role": "Marketing Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/benra88",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Lazar",
-                "role": "Developement",
-                "links": [
-                    {
-                        "url": "https://twitter.com/LazarIdjoski",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Jovan",
-                "role": "Developement",
-                "links": [
-                    {
-                        "url": "https://twitter.com/basically_jovan",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Pho",
-                "role": "Connunity Management",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Feuerphoenix4",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Legal Entity"
-        ],
-        "fav": false
-    },
-    {
-        "name": "Jellystake",
-        "description": "A staking service for JLY tokens on DMC, part of the Jellyverse ecosystem.",
-        "longDescription": "Jellystake, part of the Jellyverse ecosystem, is a staking algorithm/service designed for the JLY token on DeFiChain. It aims to provide a secure and efficient way for token holders to stake their JLY tokens and earn rewards, thereby encouraging long-term holding and ecosystem participation.",
-        "mainURL": "https://jellyverse.org",
-        "img": "project_imgs/jelly-stake_banner.png",
-        "missionStatement": "To provide a unique staking algorithm for JLY tokens on the DMC.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/Santiago__Sa",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Ben",
+        "role": "Marketing Lead",
         "links": [
-            {
-                "url": "https://twitter.com/jlyvrs",
-                "type": "X"
-            },
-            {
-                "url": "https://www.youtube.com/@jellyverse",
-                "type": "YouTube"
-            },
-            {
-                "url": "https://t.me/jlyvrs",
-                "type": "Telegram"
-            },
-            {
-                "url": "https://www.reddit.com/r/jellyverse/",
-                "type": "Reddit"
-            }
-        ],
-        "team": [
-            {
-                "name": "Santiago",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Santiago__Sa",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Ben",
-                "role": "Marketing Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/benra88",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Lazar",
-                "role": "Developement",
-                "links": [
-                    {
-                        "url": "https://twitter.com/LazarIdjoski",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Jovan",
-                "role": "Developement",
-                "links": [
-                    {
-                        "url": "https://twitter.com/basically_jovan",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Pho",
-                "role": "Connunity Management",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Feuerphoenix4",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Yield Farming"
-        ],
-        "fav": false
-    },
-    {
-        "name": "Jellyswap",
-        "description": "A decentralized exchange on DMC, part of the Jellyverse ecosystem.",
-        "longDescription": "Jellyswap is another key component of the Jellyverse ecosystem, serving as a decentralized exchange (DEX) on DeFiChain. It aims to provide a secure, efficient, and user-friendly platform for trading various digital assets in a decentralized manner, thereby enhancing liquidity and user engagement within the DeFiChain ecosystem.",
-        "mainURL": "https://jellyverse.org",
-        "img": "project_imgs/jelly-swap_banner.png",
-        "missionStatement": "To offer a decentralized exchange within the Jellyverse ecosystem on the DMC.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/benra88",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Lazar",
+        "role": "Developement",
         "links": [
-            {
-                "url": "https://twitter.com/jlyvrs",
-                "type": "X"
-            },
-            {
-                "url": "https://www.youtube.com/@jellyverse",
-                "type": "YouTube"
-            },
-            {
-                "url": "https://t.me/jlyvrs",
-                "type": "Telegram"
-            },
-            {
-                "url": "https://www.reddit.com/r/jellyverse/",
-                "type": "Reddit"
-            }
-        ],
-        "team": [
-            {
-                "name": "Santiago",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Santiago__Sa",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Ben",
-                "role": "Marketing Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/benra88",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Lazar",
-                "role": "Developement",
-                "links": [
-                    {
-                        "url": "https://twitter.com/LazarIdjoski",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Jovan",
-                "role": "Developement",
-                "links": [
-                    {
-                        "url": "https://twitter.com/basically_jovan",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Pho",
-                "role": "Connunity Management",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Feuerphoenix4",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "DEX"
-        ],
-        "fav": true
-    },
-    {
-        "name": "jUSD stablecoin",
-        "description": "A decentralized stablecoin on DMC, part of the Jellyverse ecosystem.",
-        "longDescription": "jUSD is a decentralized stablecoin that is part of the Jellyverse ecosystem and operates on the DeFiChain platform. It aims to provide a stable, secure, and decentralized medium of exchange that maintains a 1:1 peg with the US Dollar. By offering a stablecoin option within the DeFiChain ecosystem, jUSD aims to facilitate smoother transactions and provide a safe haven asset for users.",
-        "mainURL": "https://jellyverse.org",
-        "img": "project_imgs/jelly-jusd_banner.png",
-        "missionStatement": "To provide a stable and decentralized digital currency within the Jellyverse ecosystem.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/LazarIdjoski",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Jovan",
+        "role": "Developement",
         "links": [
-            {
-                "url": "https://twitter.com/jlyvrs",
-                "type": "X"
-            },
-            {
-                "url": "https://www.youtube.com/@jellyverse",
-                "type": "YouTube"
-            },
-            {
-                "url": "https://t.me/jlyvrs",
-                "type": "Telegram"
-            },
-            {
-                "url": "https://www.reddit.com/r/jellyverse/",
-                "type": "Reddit"
-            }
-        ],
-        "team": [
-            {
-                "name": "Santiago",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Santiago__Sa",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Ben",
-                "role": "Marketing Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/benra88",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Lazar",
-                "role": "Developement",
-                "links": [
-                    {
-                        "url": "https://twitter.com/LazarIdjoski",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Jovan",
-                "role": "Developement",
-                "links": [
-                    {
-                        "url": "https://twitter.com/basically_jovan",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Pho",
-                "role": "Connunity Management",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Feuerphoenix4",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Stablecoin"
-        ],
-        "fav": false
-    },
-    {
-        "name": "Jellybond",
-        "description": "A decentralized bonding mechanism on DMC, part of the Jellyverse ecosystem.",
-        "longDescription": "Jellybond is a decentralized bonding mechanism that forms part of the Jellyverse ecosystem on DeFiChain. It aims to provide a secure and efficient way for users to bond assets, thereby facilitating more complex financial operations like loans, collateralization, and yield generation within the DeFiChain ecosystem.",
-        "mainURL": "https://jellyverse.org",
-        "img": "project_imgs/jelly-bond_banner.png",
-        "missionStatement": "To introduce a decentralized bonding mechanism within the Jellyverse ecosystem.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/basically_jovan",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Pho",
+        "role": "Connunity Management",
         "links": [
-            {
-                "url": "https://twitter.com/jlyvrs",
-                "type": "X"
-            },
-            {
-                "url": "https://www.youtube.com/@jellyverse",
-                "type": "YouTube"
-            },
-            {
-                "url": "https://t.me/jlyvrs",
-                "type": "Telegram"
-            },
-            {
-                "url": "https://www.reddit.com/r/jellyverse/",
-                "type": "Reddit"
-            }
-        ],
-        "team": [
-            {
-                "name": "Santiago",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Santiago__Sa",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Ben",
-                "role": "Marketing Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/benra88",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Lazar",
-                "role": "Developement",
-                "links": [
-                    {
-                        "url": "https://twitter.com/LazarIdjoski",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Jovan",
-                "role": "Developement",
-                "links": [
-                    {
-                        "url": "https://twitter.com/basically_jovan",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Pho",
-                "role": "Connunity Management",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Feuerphoenix4",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Bonding"
-        ],
-        "fav": false
-    },
-    {
-        "name": "Vanilla Labs",
-        "description": "TODO",
-        "longDescription": "TODO",
-        "mainURL": "TODO",
-        "img": "project_imgs/vanilla-labs_banner.png",
-        "missionStatement": "TODO",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/Feuerphoenix4",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Legal Entity"],
+    "fav": false
+  },
+  {
+    "name": "Jellystake",
+    "description": "A staking service for JLY tokens on DMC, part of the Jellyverse ecosystem.",
+    "longDescription": "Jellystake, part of the Jellyverse ecosystem, is a staking algorithm/service designed for the JLY token on DeFiChain. It aims to provide a secure and efficient way for token holders to stake their JLY tokens and earn rewards, thereby encouraging long-term holding and ecosystem participation.",
+    "mainURL": "https://jellyverse.org",
+    "img": "jelly-stake_logo.svg",
+    "missionStatement": "To provide a unique staking algorithm for JLY tokens on the DMC.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/jlyvrs",
+        "type": "X"
+      },
+      {
+        "url": "https://www.youtube.com/@jellyverse",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://t.me/jlyvrs",
+        "type": "Telegram"
+      },
+      {
+        "url": "https://www.reddit.com/r/jellyverse/",
+        "type": "Reddit"
+      }
+    ],
+    "team": [
+      {
+        "name": "Santiago",
+        "role": "Project Lead",
         "links": [
-            {
-                "url": "https://www.youtube.com/@VanillaLabs",
-                "type": "YouTube"
-            },
-            {
-                "url": "https://t.me/Vanilla_labs",
-                "type": "Telegram"
-            }
-        ],
-        "team": [
-            {
-                "name": "Dominik",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Dom1_makeit",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Dwight",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/DwightTrovilli3",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Legal Entity"
-        ],
-        "fav": true
-    },
-    {
-        "name": "Vanilla Swap",
-        "description": "A decentralized exchange on DMC, enabling seamless asset swaps.",
-        "longDescription": "Vanilla Swap is a decentralized exchange (DEX) built on the DeFiChain ecosystem. It provides a platform for users to swap various digital assets in a secure and decentralized manner. By eliminating the need for intermediaries, Vanilla Swap aims to offer a more transparent and efficient trading experience.",
-        "mainURL": "https://vanillaswap.org",
-        "img": "project_imgs/vanilla-swap_banner.png",
-        "missionStatement": "To offer a decentralized exchange on the DMC for seamless asset swaps.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/Santiago__Sa",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Ben",
+        "role": "Marketing Lead",
         "links": [
-            {
-                "url": "https://twitter.com/VanillaSwap1",
-                "type": "X"
-            },
-            {
-                "url": "https://www.youtube.com/@VanillaLabs",
-                "type": "YouTube"
-            },
-            {
-                "url": "https://t.me/Vanilla_labs",
-                "type": "Telegram"
-            }
-        ],
-        "team": [
-            {
-                "name": "Dominik",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Dom1_makeit",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Dwight",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/DwightTrovilli3",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "DEX"
-        ],
-        "fav": true
-    },
-    {
-        "name": "Vanilla Farm",
-        "description": "TODO",
-        "longDescription": "TODO",
-        "mainURL": "TODO",
-        "img": "project_imgs/vanilla-farm_banner.png",
-        "missionStatement": "TODO",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/benra88",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Lazar",
+        "role": "Developement",
         "links": [
-            {
-                "url": "https://twitter.com/VanillaSwap1",
-                "type": "X"
-            },
-            {
-                "url": "https://www.youtube.com/@VanillaLabs",
-                "type": "YouTube"
-            },
-            {
-                "url": "https://t.me/Vanilla_labs",
-                "type": "Telegram"
-            }
-        ],
-        "team": [
-            {
-                "name": "Dominik",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Dom1_makeit",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Dwight",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/DwightTrovilli3",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Yield Farming"
-        ],
-        "fav": true
-    },
-    {
-        "name": "dSEA",
-        "description": "An NFT marketplace on DMC, facilitating the trade of unique digital assets.",
-        "longDescription": "dSEA is an NFT marketplace designed to facilitate the trading of NFTs (Non-Fungible Tokens) within the DeFiChain ecosystem. It serves as a platform where users can buy, sell, and trade unique digital assets in a secure and decentralized manner. By leveraging DeFiChain's blockchain technology, dSEA aims to provide a seamless and trustworthy experience for NFT enthusiasts.",
-        "mainURL": "https://www.dsea.io",
-        "img": "",
-        "missionStatement": "To create a decentralized marketplace for trading NFTs on the DMC.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/LazarIdjoski",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Jovan",
+        "role": "Developement",
         "links": [
-            {
-                "url": "https://twitter.com/dSEA_DFI",
-                "type": "X"
-            },
-            {
-                "url": "https://www.youtube.com/@Maurice_DFI",
-                "type": "YouTube"
-            }
-        ],
-        "team": [
-            {
-                "name": "Maurice",
-                "role": "Founder",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Maurice_DFI",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "NFT",
-            "Marketplace"
-        ],
-        "fav": false
-    },
-    {
-        "name": "Testnet explorer",
-        "description": "A block explorer on the DMC testnet, offering insights into addresses, transactions, and smart contracts.",
-        "longDescription": "The DMC Testnet Explorer serves as an indispensable tool for both developers and users within the DeFiChain ecosystem. It allows for the inspection of addresses, transactions, blocks, and smart contracts on DeFiChain's testnet. By providing a user-friendly interface and a wide array of features, the explorer acts as a central hub for anyone seeking detailed information about activities on the testnet.",
-        "mainURL": "https://testnet-dmc.mydefichain.com:8444",
-        "img": "",
-        "missionStatement": "To provide a transparent and user-friendly block explorer for the DMC testnet.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/basically_jovan",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Pho",
+        "role": "Connunity Management",
         "links": [
-            {
-                "label": "X Profile",
-                "url": "https://twitter.com/mydefichain",
-                "type": "X"
-            }
-        ],
-        "team": [
-            {
-                "name": "MyDeFiChain",
-                "role": "Founder",
-                "links": [
-                    {
-                        "url": "https://twitter.com/mydefichain",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Infrastructure",
-            "Explorer"
-        ],
-        "fav": false
-    },
-    {
-        "name": "DMC testnet DFI faucet",
-        "description": "A faucet providing free DMC testnet DFI tokens, available for request every 6 hours.",
-        "longDescription": "The DMC Testnet DFI Faucet is a valuable resource for developers and users who are looking to experiment with DeFiChain's testnet. The faucet provides free DMC testnet DFI tokens, which can be requested every 6 hours. This enables users to play around with the testnet, build applications, and test smart contracts without any financial risk.",
-        "mainURL": "https://mydeficha.in/en/index.php?site=faucet",
-        "img": "",
-        "missionStatement": "To facilitate easy access to DMC testnet DFI tokens for users and developers.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/Feuerphoenix4",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Yield Farming"],
+    "fav": false
+  },
+  {
+    "name": "Jellyswap",
+    "description": "A decentralized exchange on DMC, part of the Jellyverse ecosystem.",
+    "longDescription": "Jellyswap is another key component of the Jellyverse ecosystem, serving as a decentralized exchange (DEX) on DeFiChain. It aims to provide a secure, efficient, and user-friendly platform for trading various digital assets in a decentralized manner, thereby enhancing liquidity and user engagement within the DeFiChain ecosystem.",
+    "mainURL": "https://jellyverse.org",
+    "img": "jelly-swap_logo.svg",
+    "missionStatement": "To offer a decentralized exchange within the Jellyverse ecosystem on the DMC.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/jlyvrs",
+        "type": "X"
+      },
+      {
+        "url": "https://www.youtube.com/@jellyverse",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://t.me/jlyvrs",
+        "type": "Telegram"
+      },
+      {
+        "url": "https://www.reddit.com/r/jellyverse/",
+        "type": "Reddit"
+      }
+    ],
+    "team": [
+      {
+        "name": "Santiago",
+        "role": "Project Lead",
         "links": [
-            {
-                "label": "X Profile",
-                "url": "https://twitter.com/mydefichain",
-                "type": "X"
-            }
-        ],
-        "team": [],
-        "tags": [
-            "Infrastructure"
-        ],
-        "fav": false
-    },
-    {
-        "name": "OpenDApps Cloud",
-        "description": "A Software-as-a-Service platform, providing solutions for crypto projects.",
-        "longDescription": "OpenDApps Cloud is a Software-as-a-Service (SaaS) platform that specializes in providing solutions for crypto projects. It aims to streamline the development, deployment, and management of decentralized applications by offering a range of cloud-based services. By doing so, OpenDApps Cloud seeks to lower the barriers to entry for crypto projects and accelerate their time-to-market.",
-        "mainURL": "https://opendapps.cloud",
-        "img": "project_imgs/opendapps-cloud_banner.png",
-        "missionStatement": "To offer Software-as-a-Service solutions tailored for crypto projects",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/Santiago__Sa",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Ben",
+        "role": "Marketing Lead",
         "links": [
-            {
-                "url": "https://twitter.com/opendapps_cloud",
-                "type": "X"
-            }
-        ],
-        "team": [
-            {
-                "name": "Kiril",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/shadows_crypto",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Infrastructure"
-        ],
-        "fav": true
-    },
-    {
-        "name": "DeFiChain Domains",
-        "description": "A platform offering decentralized domains on DeFiChain.",
-        "longDescription": "DeFiChain Domains aims to revolutionize the domain name system by offering decentralized domains on the DeFiChain platform. By doing so, it provides users with the ability to have more control over their online identities, free from the constraints of traditional, centralized domain registrars. This initiative seeks to enhance privacy, security, and user autonomy within the DeFiChain ecosystem.",
-        "mainURL": "https://defichain-domains.com",
-        "img": "project_imgs/defichain-domains_banner.png",
-        "missionStatement": "To provide decentralized domain services on DeFiChain.",
-        "inTheMarketYouTubeVideoId": "vaT5lszyFAo",
+          {
+            "url": "https://twitter.com/benra88",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Lazar",
+        "role": "Developement",
         "links": [
-            {
-                "url": "https://twitter.com/defichaindomain",
-                "type": "X"
-            },
-            {
-                "url": "https://defichain-domains.medium.com/",
-                "type": "Medium"
-            }
-        ],
-        "team": [
-            {
-                "name": "Leo",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/LeoFromTheLake1",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Stefano",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/madeinusmate",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Francesco",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/fravilla_web3",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Domains"
-        ],
-        "fav": true
-    },
-    {
-        "name": "DeFi-Bets Games",
-        "description": "A betting platform on DMC, allowing wagers on future asset prices.",
-        "longDescription": "DeFi-Bets is a platform that allows users to bet on future asset prices within the DeFiChain ecosystem. By leveraging blockchain technology, DeFi-Bets aims to provide a transparent, secure, and decentralized environment for financial speculation. The platform seeks to attract traders and speculators who are interested in profiting from price movements without the need for asset ownership.",
-        "mainURL": "https://defi-bets.com",
-        "img": "project_imgs/defi-bets_banner.png",
-        "missionStatement": "To create a decentralized platform for betting on future asset prices.",
-        "inTheMarketYouTubeVideoId": "gcHQ4CiYawE",
+          {
+            "url": "https://twitter.com/LazarIdjoski",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Jovan",
+        "role": "Developement",
         "links": [
-            {
-                "url": "https://twitter.com/_DeFi_Bets",
-                "type": "X"
-            },
-            {
-                "url": "https://www.youtube.com/@lars-crypto/videos",
-                "type": "YouTube"
-            },
-            {
-                "url": "https://www.reddit.com/user/Defi_Bets_/",
-                "type": "Reddit"
-            }
-        ],
-        "team": [
-            {
-                "name": "Lars Berge",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/LarsBerge6",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Betting"
-        ],
-        "fav": true
-    },
-    {
-        "name": "Winner takes it all",
-        "description": "A gambling smart contract on DMC, designed to burn coins.",
-        "longDescription": "Winner Takes it All is a gambling smart contract designed to burn coins, with plans to later support dUSD. The platform aims to provide a decentralized and transparent environment for gambling activities. By burning coins, it also serves the dual purpose of reducing the overall supply, potentially increasing scarcity and value for the remaining tokens.",
-        "mainURL": "https://www.vault-maxi.live/defichain/meta-chain",
-        "img": "",
-        "missionStatement": "To introduce a gambling smart contract on DMC designed to burn coins.",
-        "inTheMarketYouTubeVideoId": "",
-        "links": [],
-        "team": [
-            {
-                "name": "Kügi",
-                "role": "Founder",
-                "links": [
-                    {
-                        "url": "https://twitter.com/mkuegi",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Gambling"
-        ],
-        "fav": false
-    },
-    {
-        "name": "Wrytes",
-        "description": "An on-chain decentralized platform for options trading.",
-        "longDescription": "Wrytes is an on-chain decentralized platform focused on options trading. It aims to provide a secure, transparent, and efficient environment for trading financial derivatives within the DeFiChain ecosystem. By leveraging blockchain technology, Wrytes seeks to democratize access to options trading and reduce the complexities traditionally associated with these financial instruments.",
-        "mainURL": "https://wrytes.finance",
-        "img": "",
-        "missionStatement": "To offer on-chain decentralized options trading.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/basically_jovan",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Pho",
+        "role": "Connunity Management",
         "links": [
-            {
-                "url": "https://twitter.com/BirthdayDev",
-                "type": "X"
-            }
-        ],
-        "tags": [
-            "Options"
-        ],
-        "fav": false
-    },
-    {
-        "name": "DeFiChain Punks",
-        "description": "An NFT project on DMC, offering unique, algorithmically generated characters.",
-        "longDescription": "DeFiChain Punks is an NFT (Non-Fungible Token) project on the DeFiChain platform. It offers a collection of unique, algorithmically generated characters as NFTs. These digital collectibles aim to provide both aesthetic value and potential investment opportunities. By leveraging the DeFiChain ecosystem, DeFiChain Punks seeks to offer a secure and decentralized platform for NFT enthusiasts.",
-        "mainURL": "https://www.defichainpunks.com",
-        "img": "",
-        "missionStatement": "To create unique, algorithmically generated NFT characters on DMC.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/Feuerphoenix4",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["DEX"],
+    "fav": true
+  },
+  {
+    "name": "jUSD stablecoin",
+    "description": "A decentralized stablecoin on DMC, part of the Jellyverse ecosystem.",
+    "longDescription": "jUSD is a decentralized stablecoin that is part of the Jellyverse ecosystem and operates on the DeFiChain platform. It aims to provide a stable, secure, and decentralized medium of exchange that maintains a 1:1 peg with the US Dollar. By offering a stablecoin option within the DeFiChain ecosystem, jUSD aims to facilitate smoother transactions and provide a safe haven asset for users.",
+    "mainURL": "https://jellyverse.org",
+    "img": "jelly-jusd_logo.svg",
+    "missionStatement": "To provide a stable and decentralized digital currency within the Jellyverse ecosystem.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/jlyvrs",
+        "type": "X"
+      },
+      {
+        "url": "https://www.youtube.com/@jellyverse",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://t.me/jlyvrs",
+        "type": "Telegram"
+      },
+      {
+        "url": "https://www.reddit.com/r/jellyverse/",
+        "type": "Reddit"
+      }
+    ],
+    "team": [
+      {
+        "name": "Santiago",
+        "role": "Project Lead",
         "links": [
-            {
-                "url": "https://twitter.com/defichainpunks",
-                "type": "X"
-            }
-        ],
-        "team": [
-            {
-                "name": "Stefano",
-                "role": "Founder",
-                "links": [
-                    {
-                        "url": "https://twitter.com/madeinusmate",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "NFT"
-        ],
-        "fav": false
-    },
-    {
-        "name": "Nucocloud",
-        "description": "Your launchpad to personalized, unlimited & decentralized computing power.",
-        "longDescription": "nuco.cloud aims to be your launchpad to personalized, unlimited, and decentralized computing power. The platform seeks to democratize access to computing resources by offering a decentralized cloud computing solution. By leveraging blockchain technology, nuco.cloud aims to provide a secure, efficient, and scalable platform for various computing needs.",
-        "mainURL": "https://nuco.cloud",
-        "img": "",
-        "missionStatement": "To provide a decentralized cloud computing platform offering scalable resources.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/Santiago__Sa",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Ben",
+        "role": "Marketing Lead",
         "links": [
-            {
-                "url": "https://twitter.com/nucocloud",
-                "type": "X"
-            }
-        ],
-        "tags": [
-            "Infrastructure"
-        ],
-        "fav": false
-    },
-    {
-        "name": "Unleashed",
-        "description": "A software solution provider for decentralized companies.",
-        "longDescription": "Unleashed focuses on building software solutions specifically tailored for decentralized companies. By leveraging blockchain technology, the project aims to provide robust, secure, and scalable software solutions that meet the unique needs of companies operating in a decentralized environment. Unleashed seeks to bridge the gap between traditional software and the evolving landscape of decentralized business models.",
-        "mainURL": "",
-        "img": "project_imgs/unleashed_banner.png",
-        "missionStatement": "To build software solutions tailored for decentralized companies.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/benra88",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Lazar",
+        "role": "Developement",
         "links": [
-            {
-                "url": "https://twitter.com/UnleashBusiness",
-                "type": "X"
-            }
-        ],
-        "team": [
-            {
-                "name": "Kiril",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/shadows_crypto",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Infrastructure"
-        ],
-        "fav": false
-    },
-    {
-        "name": "Decentralized-Crypto-Casino",
-        "description": "A decentralized roulette platform on DMC, using DFI tokens for play.",
-        "longDescription": "Decentralized-Crypto-Casino is a platform that offers decentralized roulette gaming, allowing users to play with DFI tokens. The project aims to provide a secure, transparent, and fair gaming experience by leveraging blockchain technology. By doing so, it seeks to eliminate the need for intermediaries and offer a more direct and engaging gaming experience.",
-        "mainURL": "https://defipages.github.io/Decentralized-Crypto-Casino",
-        "img": "",
-        "missionStatement": "To offer a decentralized roulette platform on DMC using DFI tokens.",
-        "inTheMarketYouTubeVideoId": "",
-        "links": [],
-        "team": [
-            {
-                "name": "Santiago",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Santiago__Sa",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Gambling"
-        ],
-        "fav": false
-    },
-    {
-        "name": "DeFiChain Lottery",
-        "description": "A decentralized lottery on DMC, operated via smart contracts.",
-        "longDescription": "DeFiChain Lottery is a decentralized lottery platform that operates on the DeFiChain platform. Utilizing smart contracts, the project aims to provide a secure, transparent, and fair lottery experience. By leveraging blockchain technology, DeFiChain Lottery seeks to eliminate the need for intermediaries, thereby offering a more direct and engaging gaming experience.",
-        "mainURL": "https://dmc-lottery.netlify.app",
-        "img": "",
-        "missionStatement": "To operate a decentralized lottery on DMC via smart contracts.",
-        "inTheMarketYouTubeVideoId": "",
-        "links": [],
-        "team": [
-            {
-                "name": "Igor",
-                "role": "Founder",
-                "links": [
-                    {
-                        "url": "https://twitter.com/IgorShelkovenk1",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Gambling"
-        ],
-        "fav": false
-    },
-    {
-        "name": "Million Pixel DFI",
-        "description": "A digital canvas where pixels can be bought via smart contracts.",
-        "longDescription": "Million Pixel DFI is a unique project that allows users to buy pixels of a one-million-pixel picture via smart contracts. The project aims to create a digital canvas where each pixel can be owned, thereby offering a new form of digital real estate. By leveraging blockchain technology, Million Pixel DFI provides a secure and transparent platform for this novel concept.",
-        "mainURL": "https://millionpixeldfi.github.io",
-        "img": "",
-        "missionStatement": "To offer a digital canvas where pixels can be bought via smart contracts.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/LazarIdjoski",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Jovan",
+        "role": "Developement",
         "links": [
-            {
-                "url": "https://twitter.com/millionpixeldfi",
-                "type": "X"
-            }
-        ],
-        "tags": [
-            "Game"
-        ],
-        "fav": false
-    },
-    {
-        "name": "JAVLIS / JAVsphere",
-        "description": "A dual-platform offering both centralized and decentralized financial products.",
-        "longDescription": "JAVLIS is a centralized finance platform designed to offer a user-friendly solution for individuals looking to invest fiat currencies into cryptocurrencies. It aims to generate passive income through the dynamics of DeFi. On the other hand, JAVsphere is a decentralized suite of products in the DeFi space, offering a unique set of products and functions. Together, they aim to provide a comprehensive financial solution for both centralized and decentralized finance.",
-        "mainURL": "https://javlis.com",
-        "img": "project_imgs/javlis_banner.png",
-        "missionStatement": "To offer both centralized and decentralized financial products.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/basically_jovan",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Pho",
+        "role": "Connunity Management",
         "links": [
-            {
-                "url": "https://www.tiktok.com/@javliscom",
-                "type": "TikTok"
-            },
-            {
-                "url": "https://twitter.com/javliscom",
-                "type": "X"
-            },
-            {
-                "url": "https://www.youtube.com/@JAVLIScom/videos",
-                "type": "YouTube"
-            }
-        ],
-        "team": [
-            {
-                "name": "Sebastian",
-                "role": "Co-Founder",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Seppllang",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Lord Mark",
-                "role": "Co-Founder",
-                "links": [
-                    {
-                        "url": "https://twitter.com/lordmarkcrypto",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Igor",
-                "role": "Co-Founder",
-                "links": [
-                    {
-                        "url": "https://twitter.com/IgorShelkovenk1",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "DEX"
-        ],
-        "fav": false
-    },
-    {
-        "name": "Black Swan",
-        "description": "A project in collaboration with Jellyverse, with details to be announced.",
-        "longDescription": "Black Swan is a project that is currently in collaboration with Jellyverse. While specific details about the project are yet to be announced, it is expected to contribute to the DeFi space in a meaningful way. More information will be released soon, and it's advisable to keep an eye on official channels for updates.",
-        "mainURL": "",
-        "img": "project_imgs/black-swan_banner.png",
-        "missionStatement": "To collaborate with Jellyverse on a project with details to be announced.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/Feuerphoenix4",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Stablecoin"],
+    "fav": false
+  },
+  {
+    "name": "Jellybond",
+    "description": "A decentralized bonding mechanism on DMC, part of the Jellyverse ecosystem.",
+    "longDescription": "Jellybond is a decentralized bonding mechanism that forms part of the Jellyverse ecosystem on DeFiChain. It aims to provide a secure and efficient way for users to bond assets, thereby facilitating more complex financial operations like loans, collateralization, and yield generation within the DeFiChain ecosystem.",
+    "mainURL": "https://jellyverse.org",
+    "img": "jelly-bond_logo.svg",
+    "missionStatement": "To introduce a decentralized bonding mechanism within the Jellyverse ecosystem.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/jlyvrs",
+        "type": "X"
+      },
+      {
+        "url": "https://www.youtube.com/@jellyverse",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://t.me/jlyvrs",
+        "type": "Telegram"
+      },
+      {
+        "url": "https://www.reddit.com/r/jellyverse/",
+        "type": "Reddit"
+      }
+    ],
+    "team": [
+      {
+        "name": "Santiago",
+        "role": "Project Lead",
         "links": [
-            {
-                "url": "https://twitter.com/BLKSWN_STUDIO",
-                "type": "X"
-            }
-        ],
-        "team": [
-            {
-                "name": "Tommy",
-                "role": "Market Analyst",
-                "links": [
-                    {
-                        "url": "https://twitter.com/DFIblock1430640",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Philipp",
-                "role": "Mathmatical Analyst",
-                "links": [
-                    {
-                        "url": "https://twitter.com/phigo90",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Bene",
-                "role": "Marketing Expert",
-                "links": [
-                    {
-                        "url": "https://twitter.com/DEFICHAIN_EPIC",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Philipp",
-                "role": "Developement",
-                "links": []
-            },
-            {
-                "name": "Tobias",
-                "role": "DeFi Expert",
-                "links": [
-                    {
-                        "url": "https://twitter.com/Tobi_Kr_",
-                        "type": "X"
-                    }
-                ]
-            },
-            {
-                "name": "Diego",
-                "role": "Developement",
-                "links": [
-                    {
-                        "url": "https://twitter.com/DCT_cpp",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Legal Entity"
-        ],
-        "fav": false
-    },
-    {
-        "name": "Metalabs",
-        "description": "Not yet confirmed what this project is about.",
-        "longDescription": "",
-        "mainURL": "",
-        "img": "",
-        "missionStatement": "To build another DEX on DMC?",
-        "inTheMarketYouTubeVideoId": "",
-        "links": [],
-        "team": [],
-        "tags": [
-            "Legal Entity"
-        ],
-        "fav": false
-    },
-    {
-        "name": "Crypto Factor",
-        "description": "A platform aiming to create self-contained digital entities for a future Metaverse.",
-        "longDescription": "Crypto Factor is a visionary project that aims to leverage decentralized services on DeFiMetaChain. The project focuses on the creation of self-contained digital entities designed to operate in a future Metaverse. These entities are intended to generate revenue and income through novel features, exchange digital value, derive utility, interact by proxy on digital media, and interface directly with tokenized assets. The ultimate goal is to provide control and versatility through the ownership of these digital entities, thereby constituting real operations.",
-        "mainURL": "",
-        "img": "project_imgs/crypto-factor_banner.png",
-        "missionStatement": "To formulate self-contained digital entities that operate in a future Metaverse.",
-        "inTheMarketYouTubeVideoId": "",
+          {
+            "url": "https://twitter.com/Santiago__Sa",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Ben",
+        "role": "Marketing Lead",
         "links": [
-            {
-                "url": "https://twitter.com/DEFICHAINFACTOR",
-                "type": "X"
-            },
-            {
-                "url": "https://www.reddit.com/r/defiblockchain/comments/1626xdq/crypto_factor_building_on_defimetachain_dmc/?share_id=sNYucpdClIVT0CFA4wEnc&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1",
-                "type": "Reddit"
-            }
-        ],
-        "team": [
-            {
-                "name": "Matt",
-                "role": "Project Lead",
-                "links": [
-                    {
-                        "url": "https://twitter.com/DEFICHAINFACTOR",
-                        "type": "X"
-                    }
-                ]
-            }
-        ],
-        "tags": [
-            "Infrastructure"
-        ],
-        "fav": false
-    }
+          {
+            "url": "https://twitter.com/benra88",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Lazar",
+        "role": "Developement",
+        "links": [
+          {
+            "url": "https://twitter.com/LazarIdjoski",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Jovan",
+        "role": "Developement",
+        "links": [
+          {
+            "url": "https://twitter.com/basically_jovan",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Pho",
+        "role": "Connunity Management",
+        "links": [
+          {
+            "url": "https://twitter.com/Feuerphoenix4",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Bonding"],
+    "fav": false
+  },
+  {
+    "name": "Vanilla Labs",
+    "description": "TODO",
+    "longDescription": "TODO",
+    "mainURL": "TODO",
+    "img": "vanilla-labs_logo.svg",
+    "missionStatement": "TODO",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://www.youtube.com/@VanillaLabs",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://t.me/Vanilla_labs",
+        "type": "Telegram"
+      }
+    ],
+    "team": [
+      {
+        "name": "Dominik",
+        "role": "Project Lead",
+        "links": [
+          {
+            "url": "https://twitter.com/Dom1_makeit",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Dwight",
+        "role": "Project Lead",
+        "links": [
+          {
+            "url": "https://twitter.com/DwightTrovilli3",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Legal Entity"],
+    "fav": true
+  },
+  {
+    "name": "Vanilla Swap",
+    "description": "A decentralized exchange on DMC, enabling seamless asset swaps.",
+    "longDescription": "Vanilla Swap is a decentralized exchange (DEX) built on the DeFiChain ecosystem. It provides a platform for users to swap various digital assets in a secure and decentralized manner. By eliminating the need for intermediaries, Vanilla Swap aims to offer a more transparent and efficient trading experience.",
+    "mainURL": "https://vanillaswap.org",
+    "img": "vanilla-swap_logo.svg",
+    "missionStatement": "To offer a decentralized exchange on the DMC for seamless asset swaps.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/VanillaSwap1",
+        "type": "X"
+      },
+      {
+        "url": "https://www.youtube.com/@VanillaLabs",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://t.me/Vanilla_labs",
+        "type": "Telegram"
+      }
+    ],
+    "team": [
+      {
+        "name": "Dominik",
+        "role": "Project Lead",
+        "links": [
+          {
+            "url": "https://twitter.com/Dom1_makeit",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Dwight",
+        "role": "Project Lead",
+        "links": [
+          {
+            "url": "https://twitter.com/DwightTrovilli3",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["DEX"],
+    "fav": true
+  },
+  {
+    "name": "Vanilla Farm",
+    "description": "TODO",
+    "longDescription": "TODO",
+    "mainURL": "TODO",
+    "img": "vanilla-farm_logo.svg",
+    "missionStatement": "TODO",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/VanillaSwap1",
+        "type": "X"
+      },
+      {
+        "url": "https://www.youtube.com/@VanillaLabs",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://t.me/Vanilla_labs",
+        "type": "Telegram"
+      }
+    ],
+    "team": [
+      {
+        "name": "Dominik",
+        "role": "Project Lead",
+        "links": [
+          {
+            "url": "https://twitter.com/Dom1_makeit",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Dwight",
+        "role": "Project Lead",
+        "links": [
+          {
+            "url": "https://twitter.com/DwightTrovilli3",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Yield Farming"],
+    "fav": true
+  },
+  {
+    "name": "dSEA",
+    "description": "An NFT marketplace on DMC, facilitating the trade of unique digital assets.",
+    "longDescription": "dSEA is an NFT marketplace designed to facilitate the trading of NFTs (Non-Fungible Tokens) within the DeFiChain ecosystem. It serves as a platform where users can buy, sell, and trade unique digital assets in a secure and decentralized manner. By leveraging DeFiChain's blockchain technology, dSEA aims to provide a seamless and trustworthy experience for NFT enthusiasts.",
+    "mainURL": "https://www.dsea.io",
+    "img": "",
+    "missionStatement": "To create a decentralized marketplace for trading NFTs on the DMC.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/dSEA_DFI",
+        "type": "X"
+      },
+      {
+        "url": "https://www.youtube.com/@Maurice_DFI",
+        "type": "YouTube"
+      }
+    ],
+    "team": [
+      {
+        "name": "Maurice",
+        "role": "Founder",
+        "links": [
+          {
+            "url": "https://twitter.com/Maurice_DFI",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["NFT", "Marketplace"],
+    "fav": false
+  },
+  {
+    "name": "Testnet explorer",
+    "description": "A block explorer on the DMC testnet, offering insights into addresses, transactions, and smart contracts.",
+    "longDescription": "The DMC Testnet Explorer serves as an indispensable tool for both developers and users within the DeFiChain ecosystem. It allows for the inspection of addresses, transactions, blocks, and smart contracts on DeFiChain's testnet. By providing a user-friendly interface and a wide array of features, the explorer acts as a central hub for anyone seeking detailed information about activities on the testnet.",
+    "mainURL": "https://testnet-dmc.mydefichain.com:8444",
+    "img": "",
+    "missionStatement": "To provide a transparent and user-friendly block explorer for the DMC testnet.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "label": "X Profile",
+        "url": "https://twitter.com/mydefichain",
+        "type": "X"
+      }
+    ],
+    "team": [
+      {
+        "name": "MyDeFiChain",
+        "role": "Founder",
+        "links": [
+          {
+            "url": "https://twitter.com/mydefichain",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Infrastructure", "Explorer"],
+    "fav": false
+  },
+  {
+    "name": "DMC testnet DFI faucet",
+    "description": "A faucet providing free DMC testnet DFI tokens, available for request every 6 hours.",
+    "longDescription": "The DMC Testnet DFI Faucet is a valuable resource for developers and users who are looking to experiment with DeFiChain's testnet. The faucet provides free DMC testnet DFI tokens, which can be requested every 6 hours. This enables users to play around with the testnet, build applications, and test smart contracts without any financial risk.",
+    "mainURL": "https://mydeficha.in/en/index.php?site=faucet",
+    "img": "",
+    "missionStatement": "To facilitate easy access to DMC testnet DFI tokens for users and developers.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "label": "X Profile",
+        "url": "https://twitter.com/mydefichain",
+        "type": "X"
+      }
+    ],
+    "team": [],
+    "tags": ["Infrastructure"],
+    "fav": false
+  },
+  {
+    "name": "OpenDApps Cloud",
+    "description": "A Software-as-a-Service platform, providing solutions for crypto projects.",
+    "longDescription": "OpenDApps Cloud is a Software-as-a-Service (SaaS) platform that specializes in providing solutions for crypto projects. It aims to streamline the development, deployment, and management of decentralized applications by offering a range of cloud-based services. By doing so, OpenDApps Cloud seeks to lower the barriers to entry for crypto projects and accelerate their time-to-market.",
+    "mainURL": "https://opendapps.cloud",
+    "img": "opendapps-cloud_logo.svg",
+    "missionStatement": "To offer Software-as-a-Service solutions tailored for crypto projects",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/opendapps_cloud",
+        "type": "X"
+      }
+    ],
+    "team": [
+      {
+        "name": "Kiril",
+        "role": "Project Lead",
+        "links": [
+          {
+            "url": "https://twitter.com/shadows_crypto",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Infrastructure"],
+    "fav": true
+  },
+  {
+    "name": "DeFiChain Domains",
+    "description": "A platform offering decentralized domains on DeFiChain.",
+    "longDescription": "DeFiChain Domains aims to revolutionize the domain name system by offering decentralized domains on the DeFiChain platform. By doing so, it provides users with the ability to have more control over their online identities, free from the constraints of traditional, centralized domain registrars. This initiative seeks to enhance privacy, security, and user autonomy within the DeFiChain ecosystem.",
+    "mainURL": "https://defichain-domains.com",
+    "img": "defichain-domains_logo.svg",
+    "missionStatement": "To provide decentralized domain services on DeFiChain.",
+    "inTheMarketYouTubeVideoId": "vaT5lszyFAo",
+    "links": [
+      {
+        "url": "https://twitter.com/defichaindomain",
+        "type": "X"
+      },
+      {
+        "url": "https://defichain-domains.medium.com/",
+        "type": "Medium"
+      }
+    ],
+    "team": [
+      {
+        "name": "Leo",
+        "role": "Project Lead",
+        "links": [
+          {
+            "url": "https://twitter.com/LeoFromTheLake1",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Stefano",
+        "role": "Project Lead",
+        "links": [
+          {
+            "url": "https://twitter.com/madeinusmate",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Francesco",
+        "role": "Project Lead",
+        "links": [
+          {
+            "url": "https://twitter.com/fravilla_web3",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Domains"],
+    "fav": true
+  },
+  {
+    "name": "DeFi-Bets Games",
+    "description": "A betting platform on DMC, allowing wagers on future asset prices.",
+    "longDescription": "DeFi-Bets is a platform that allows users to bet on future asset prices within the DeFiChain ecosystem. By leveraging blockchain technology, DeFi-Bets aims to provide a transparent, secure, and decentralized environment for financial speculation. The platform seeks to attract traders and speculators who are interested in profiting from price movements without the need for asset ownership.",
+    "mainURL": "https://defi-bets.com",
+    "img": "defi-bets_logor.svg",
+    "missionStatement": "To create a decentralized platform for betting on future asset prices.",
+    "inTheMarketYouTubeVideoId": "gcHQ4CiYawE",
+    "links": [
+      {
+        "url": "https://twitter.com/_DeFi_Bets",
+        "type": "X"
+      },
+      {
+        "url": "https://www.youtube.com/@lars-crypto/videos",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://www.reddit.com/user/Defi_Bets_/",
+        "type": "Reddit"
+      }
+    ],
+    "team": [
+      {
+        "name": "Lars Berge",
+        "role": "Project Lead",
+        "links": [
+          {
+            "url": "https://twitter.com/LarsBerge6",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Betting"],
+    "fav": true
+  },
+  {
+    "name": "Winner takes it all",
+    "description": "A gambling smart contract on DMC, designed to burn coins.",
+    "longDescription": "Winner Takes it All is a gambling smart contract designed to burn coins, with plans to later support dUSD. The platform aims to provide a decentralized and transparent environment for gambling activities. By burning coins, it also serves the dual purpose of reducing the overall supply, potentially increasing scarcity and value for the remaining tokens.",
+    "mainURL": "https://www.vault-maxi.live/defichain/meta-chain",
+    "img": "",
+    "missionStatement": "To introduce a gambling smart contract on DMC designed to burn coins.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [],
+    "team": [
+      {
+        "name": "Kügi",
+        "role": "Founder",
+        "links": [
+          {
+            "url": "https://twitter.com/mkuegi",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Gambling"],
+    "fav": false
+  },
+  {
+    "name": "Wrytes",
+    "description": "An on-chain decentralized platform for options trading.",
+    "longDescription": "Wrytes is an on-chain decentralized platform focused on options trading. It aims to provide a secure, transparent, and efficient environment for trading financial derivatives within the DeFiChain ecosystem. By leveraging blockchain technology, Wrytes seeks to democratize access to options trading and reduce the complexities traditionally associated with these financial instruments.",
+    "mainURL": "https://wrytes.finance",
+    "img": "",
+    "missionStatement": "To offer on-chain decentralized options trading.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/BirthdayDev",
+        "type": "X"
+      }
+    ],
+    "tags": ["Options"],
+    "fav": false
+  },
+  {
+    "name": "DeFiChain Punks",
+    "description": "An NFT project on DMC, offering unique, algorithmically generated characters.",
+    "longDescription": "DeFiChain Punks is an NFT (Non-Fungible Token) project on the DeFiChain platform. It offers a collection of unique, algorithmically generated characters as NFTs. These digital collectibles aim to provide both aesthetic value and potential investment opportunities. By leveraging the DeFiChain ecosystem, DeFiChain Punks seeks to offer a secure and decentralized platform for NFT enthusiasts.",
+    "mainURL": "https://www.defichainpunks.com",
+    "img": "",
+    "missionStatement": "To create unique, algorithmically generated NFT characters on DMC.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/defichainpunks",
+        "type": "X"
+      }
+    ],
+    "team": [
+      {
+        "name": "Stefano",
+        "role": "Founder",
+        "links": [
+          {
+            "url": "https://twitter.com/madeinusmate",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["NFT"],
+    "fav": false
+  },
+  {
+    "name": "Nucocloud",
+    "description": "Your launchpad to personalized, unlimited & decentralized computing power.",
+    "longDescription": "nuco.cloud aims to be your launchpad to personalized, unlimited, and decentralized computing power. The platform seeks to democratize access to computing resources by offering a decentralized cloud computing solution. By leveraging blockchain technology, nuco.cloud aims to provide a secure, efficient, and scalable platform for various computing needs.",
+    "mainURL": "https://nuco.cloud",
+    "img": "",
+    "missionStatement": "To provide a decentralized cloud computing platform offering scalable resources.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/nucocloud",
+        "type": "X"
+      }
+    ],
+    "tags": ["Infrastructure"],
+    "fav": false
+  },
+  {
+    "name": "Unleashed",
+    "description": "A software solution provider for decentralized companies.",
+    "longDescription": "Unleashed focuses on building software solutions specifically tailored for decentralized companies. By leveraging blockchain technology, the project aims to provide robust, secure, and scalable software solutions that meet the unique needs of companies operating in a decentralized environment. Unleashed seeks to bridge the gap between traditional software and the evolving landscape of decentralized business models.",
+    "mainURL": "",
+    "img": "unleashed_logo.svg",
+    "missionStatement": "To build software solutions tailored for decentralized companies.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/UnleashBusiness",
+        "type": "X"
+      }
+    ],
+    "team": [
+      {
+        "name": "Kiril",
+        "role": "Project Lead",
+        "links": [
+          {
+            "url": "https://twitter.com/shadows_crypto",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Infrastructure"],
+    "fav": false
+  },
+  {
+    "name": "Decentralized-Crypto-Casino",
+    "description": "A decentralized roulette platform on DMC, using DFI tokens for play.",
+    "longDescription": "Decentralized-Crypto-Casino is a platform that offers decentralized roulette gaming, allowing users to play with DFI tokens. The project aims to provide a secure, transparent, and fair gaming experience by leveraging blockchain technology. By doing so, it seeks to eliminate the need for intermediaries and offer a more direct and engaging gaming experience.",
+    "mainURL": "https://defipages.github.io/Decentralized-Crypto-Casino",
+    "img": "",
+    "missionStatement": "To offer a decentralized roulette platform on DMC using DFI tokens.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [],
+    "team": [
+      {
+        "name": "Santiago",
+        "role": "Project Lead",
+        "links": [
+          {
+            "url": "https://twitter.com/Santiago__Sa",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Gambling"],
+    "fav": false
+  },
+  {
+    "name": "DeFiChain Lottery",
+    "description": "A decentralized lottery on DMC, operated via smart contracts.",
+    "longDescription": "DeFiChain Lottery is a decentralized lottery platform that operates on the DeFiChain platform. Utilizing smart contracts, the project aims to provide a secure, transparent, and fair lottery experience. By leveraging blockchain technology, DeFiChain Lottery seeks to eliminate the need for intermediaries, thereby offering a more direct and engaging gaming experience.",
+    "mainURL": "https://dmc-lottery.netlify.app",
+    "img": "",
+    "missionStatement": "To operate a decentralized lottery on DMC via smart contracts.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [],
+    "team": [
+      {
+        "name": "Igor",
+        "role": "Founder",
+        "links": [
+          {
+            "url": "https://twitter.com/IgorShelkovenk1",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Gambling"],
+    "fav": false
+  },
+  {
+    "name": "Million Pixel DFI",
+    "description": "A digital canvas where pixels can be bought via smart contracts.",
+    "longDescription": "Million Pixel DFI is a unique project that allows users to buy pixels of a one-million-pixel picture via smart contracts. The project aims to create a digital canvas where each pixel can be owned, thereby offering a new form of digital real estate. By leveraging blockchain technology, Million Pixel DFI provides a secure and transparent platform for this novel concept.",
+    "mainURL": "https://millionpixeldfi.github.io",
+    "img": "",
+    "missionStatement": "To offer a digital canvas where pixels can be bought via smart contracts.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/millionpixeldfi",
+        "type": "X"
+      }
+    ],
+    "tags": ["Game"],
+    "fav": false
+  },
+  {
+    "name": "JAVLIS / JAVsphere",
+    "description": "A dual-platform offering both centralized and decentralized financial products.",
+    "longDescription": "JAVLIS is a centralized finance platform designed to offer a user-friendly solution for individuals looking to invest fiat currencies into cryptocurrencies. It aims to generate passive income through the dynamics of DeFi. On the other hand, JAVsphere is a decentralized suite of products in the DeFi space, offering a unique set of products and functions. Together, they aim to provide a comprehensive financial solution for both centralized and decentralized finance.",
+    "mainURL": "https://javlis.com",
+    "img": "javlis_logo.svg",
+    "missionStatement": "To offer both centralized and decentralized financial products.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://www.tiktok.com/@javliscom",
+        "type": "TikTok"
+      },
+      {
+        "url": "https://twitter.com/javliscom",
+        "type": "X"
+      },
+      {
+        "url": "https://www.youtube.com/@JAVLIScom/videos",
+        "type": "YouTube"
+      }
+    ],
+    "team": [
+      {
+        "name": "Sebastian",
+        "role": "Co-Founder",
+        "links": [
+          {
+            "url": "https://twitter.com/Seppllang",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Lord Mark",
+        "role": "Co-Founder",
+        "links": [
+          {
+            "url": "https://twitter.com/lordmarkcrypto",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Igor",
+        "role": "Co-Founder",
+        "links": [
+          {
+            "url": "https://twitter.com/IgorShelkovenk1",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["DEX"],
+    "fav": false
+  },
+  {
+    "name": "Black Swan",
+    "description": "A project in collaboration with Jellyverse, with details to be announced.",
+    "longDescription": "Black Swan is a project that is currently in collaboration with Jellyverse. While specific details about the project are yet to be announced, it is expected to contribute to the DeFi space in a meaningful way. More information will be released soon, and it's advisable to keep an eye on official channels for updates.",
+    "mainURL": "",
+    "img": "black-swan_logo.svg",
+    "missionStatement": "To collaborate with Jellyverse on a project with details to be announced.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/BLKSWN_STUDIO",
+        "type": "X"
+      }
+    ],
+    "team": [
+      {
+        "name": "Tommy",
+        "role": "Market Analyst",
+        "links": [
+          {
+            "url": "https://twitter.com/DFIblock1430640",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Philipp",
+        "role": "Mathmatical Analyst",
+        "links": [
+          {
+            "url": "https://twitter.com/phigo90",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Bene",
+        "role": "Marketing Expert",
+        "links": [
+          {
+            "url": "https://twitter.com/DEFICHAIN_EPIC",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Philipp",
+        "role": "Developement",
+        "links": []
+      },
+      {
+        "name": "Tobias",
+        "role": "DeFi Expert",
+        "links": [
+          {
+            "url": "https://twitter.com/Tobi_Kr_",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Diego",
+        "role": "Developement",
+        "links": [
+          {
+            "url": "https://twitter.com/DCT_cpp",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Legal Entity"],
+    "fav": false
+  },
+  {
+    "name": "Metalabs",
+    "description": "Not yet confirmed what this project is about.",
+    "longDescription": "",
+    "mainURL": "",
+    "img": "",
+    "missionStatement": "To build another DEX on DMC?",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [],
+    "team": [],
+    "tags": ["Legal Entity"],
+    "fav": false
+  },
+  {
+    "name": "Crypto Factor",
+    "description": "A platform aiming to create self-contained digital entities for a future Metaverse.",
+    "longDescription": "Crypto Factor is a visionary project that aims to leverage decentralized services on DeFiMetaChain. The project focuses on the creation of self-contained digital entities designed to operate in a future Metaverse. These entities are intended to generate revenue and income through novel features, exchange digital value, derive utility, interact by proxy on digital media, and interface directly with tokenized assets. The ultimate goal is to provide control and versatility through the ownership of these digital entities, thereby constituting real operations.",
+    "mainURL": "",
+    "img": "crypto-factor_logo.svg",
+    "missionStatement": "To formulate self-contained digital entities that operate in a future Metaverse.",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/DEFICHAINFACTOR",
+        "type": "X"
+      },
+      {
+        "url": "https://www.reddit.com/r/defiblockchain/comments/1626xdq/crypto_factor_building_on_defimetachain_dmc/?share_id=sNYucpdClIVT0CFA4wEnc&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1",
+        "type": "Reddit"
+      }
+    ],
+    "team": [
+      {
+        "name": "Matt",
+        "role": "Project Lead",
+        "links": [
+          {
+            "url": "https://twitter.com/DEFICHAINFACTOR",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Infrastructure"],
+    "fav": false
+  }
 ]
