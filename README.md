@@ -1,3 +1,5 @@
+![](./Projects_GitHub_Banner.png)
+
 # DMC Universe - Projects
 
 This repository contains the projects that are listed on the [DMC Universe](https://www.dmc-universe.space) website.
@@ -8,7 +10,7 @@ To make it as easy as possible for new projects to added and existing projects t
 
 ## How to add your project
 
-**If you have no experience with GitHub and would like to add your project, please fill out [this form](https://ntgr0y6lisg.typeform.com/to/pM7fRos6).**
+**▶▶ If you have no experience with GitHub and would like to add your project, please fill out [this form](https://ntgr0y6lisg.typeform.com/to/pM7fRos6). ◀◀**
 
 1. 🔱 Fork this repository _(Not documented here)_
 2. 👾 Prepare your logo
