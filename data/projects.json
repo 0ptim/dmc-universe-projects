@@ -4,7 +4,7 @@
     "description": "TODO",
     "longDescription": "TODO",
     "mainURL": "https://jellyverse.org",
-    "img": "jelly-labs_logo.svg",
+    "img": "jellylabs.svg",
     "missionStatement": "TODO",
     "inTheMarketYouTubeVideoId": "",
     "links": [
@@ -85,7 +85,7 @@
     "description": "A staking service for JLY tokens on DMC, part of the Jellyverse ecosystem.",
     "longDescription": "Jellystake, part of the Jellyverse ecosystem, is a staking algorithm/service designed for the JLY token on DeFiChain. It aims to provide a secure and efficient way for token holders to stake their JLY tokens and earn rewards, thereby encouraging long-term holding and ecosystem participation.",
     "mainURL": "https://jellyverse.org",
-    "img": "jelly-stake_logo.svg",
+    "img": "jellystake.svg",
     "missionStatement": "To provide a unique staking algorithm for JLY tokens on the DMC.",
     "inTheMarketYouTubeVideoId": "",
     "links": [
@@ -166,7 +166,7 @@
     "description": "A decentralized exchange on DMC, part of the Jellyverse ecosystem.",
     "longDescription": "Jellyswap is another key component of the Jellyverse ecosystem, serving as a decentralized exchange (DEX) on DeFiChain. It aims to provide a secure, efficient, and user-friendly platform for trading various digital assets in a decentralized manner, thereby enhancing liquidity and user engagement within the DeFiChain ecosystem.",
     "mainURL": "https://jellyverse.org",
-    "img": "jelly-swap_logo.svg",
+    "img": "jellyswap.svg",
     "missionStatement": "To offer a decentralized exchange within the Jellyverse ecosystem on the DMC.",
     "inTheMarketYouTubeVideoId": "",
     "links": [
@@ -247,7 +247,7 @@
     "description": "A decentralized stablecoin on DMC, part of the Jellyverse ecosystem.",
     "longDescription": "jUSD is a decentralized stablecoin that is part of the Jellyverse ecosystem and operates on the DeFiChain platform. It aims to provide a stable, secure, and decentralized medium of exchange that maintains a 1:1 peg with the US Dollar. By offering a stablecoin option within the DeFiChain ecosystem, jUSD aims to facilitate smoother transactions and provide a safe haven asset for users.",
     "mainURL": "https://jellyverse.org",
-    "img": "jelly-jusd_logo.svg",
+    "img": "jellyjusd.svg",
     "missionStatement": "To provide a stable and decentralized digital currency within the Jellyverse ecosystem.",
     "inTheMarketYouTubeVideoId": "",
     "links": [
@@ -328,7 +328,7 @@
     "description": "A decentralized bonding mechanism on DMC, part of the Jellyverse ecosystem.",
     "longDescription": "Jellybond is a decentralized bonding mechanism that forms part of the Jellyverse ecosystem on DeFiChain. It aims to provide a secure and efficient way for users to bond assets, thereby facilitating more complex financial operations like loans, collateralization, and yield generation within the DeFiChain ecosystem.",
     "mainURL": "https://jellyverse.org",
-    "img": "jelly-bond_logo.svg",
+    "img": "jellybond.svg",
     "missionStatement": "To introduce a decentralized bonding mechanism within the Jellyverse ecosystem.",
     "inTheMarketYouTubeVideoId": "",
     "links": [
@@ -409,7 +409,7 @@
     "description": "TODO",
     "longDescription": "TODO",
     "mainURL": "TODO",
-    "img": "vanilla-labs_logo.svg",
+    "img": "vanillalabs.svg",
     "missionStatement": "TODO",
     "inTheMarketYouTubeVideoId": "",
     "links": [
@@ -452,7 +452,7 @@
     "description": "A decentralized exchange on DMC, enabling seamless asset swaps.",
     "longDescription": "Vanilla Swap is a decentralized exchange (DEX) built on the DeFiChain ecosystem. It provides a platform for users to swap various digital assets in a secure and decentralized manner. By eliminating the need for intermediaries, Vanilla Swap aims to offer a more transparent and efficient trading experience.",
     "mainURL": "https://vanillaswap.org",
-    "img": "vanilla-swap_logo.svg",
+    "img": "vanillaswap.svg",
     "missionStatement": "To offer a decentralized exchange on the DMC for seamless asset swaps.",
     "inTheMarketYouTubeVideoId": "",
     "links": [
@@ -499,7 +499,7 @@
     "description": "TODO",
     "longDescription": "TODO",
     "mainURL": "TODO",
-    "img": "vanilla-farm_logo.svg",
+    "img": "vanillafarm.svg",
     "missionStatement": "TODO",
     "inTheMarketYouTubeVideoId": "",
     "links": [
@@ -628,7 +628,7 @@
     "description": "A Software-as-a-Service platform, providing solutions for crypto projects.",
     "longDescription": "OpenDApps Cloud is a Software-as-a-Service (SaaS) platform that specializes in providing solutions for crypto projects. It aims to streamline the development, deployment, and management of decentralized applications by offering a range of cloud-based services. By doing so, OpenDApps Cloud seeks to lower the barriers to entry for crypto projects and accelerate their time-to-market.",
     "mainURL": "https://opendapps.cloud",
-    "img": "opendapps-cloud_logo.svg",
+    "img": "opendappscloud.svg",
     "missionStatement": "To offer Software-as-a-Service solutions tailored for crypto projects",
     "inTheMarketYouTubeVideoId": "",
     "links": [
@@ -657,7 +657,7 @@
     "description": "A platform offering decentralized domains on DeFiChain.",
     "longDescription": "DeFiChain Domains aims to revolutionize the domain name system by offering decentralized domains on the DeFiChain platform. By doing so, it provides users with the ability to have more control over their online identities, free from the constraints of traditional, centralized domain registrars. This initiative seeks to enhance privacy, security, and user autonomy within the DeFiChain ecosystem.",
     "mainURL": "https://defichain-domains.com",
-    "img": "defichain-domains_logo.svg",
+    "img": "defichaindomains.svg",
     "missionStatement": "To provide decentralized domain services on DeFiChain.",
     "inTheMarketYouTubeVideoId": "vaT5lszyFAo",
     "links": [
@@ -710,7 +710,7 @@
     "description": "A betting platform on DMC, allowing wagers on future asset prices.",
     "longDescription": "DeFi-Bets is a platform that allows users to bet on future asset prices within the DeFiChain ecosystem. By leveraging blockchain technology, DeFi-Bets aims to provide a transparent, secure, and decentralized environment for financial speculation. The platform seeks to attract traders and speculators who are interested in profiting from price movements without the need for asset ownership.",
     "mainURL": "https://defi-bets.com",
-    "img": "defi-bets_logor.svg",
+    "img": "defibetsr.svg",
     "missionStatement": "To create a decentralized platform for betting on future asset prices.",
     "inTheMarketYouTubeVideoId": "gcHQ4CiYawE",
     "links": [
@@ -834,7 +834,7 @@
     "description": "A software solution provider for decentralized companies.",
     "longDescription": "Unleashed focuses on building software solutions specifically tailored for decentralized companies. By leveraging blockchain technology, the project aims to provide robust, secure, and scalable software solutions that meet the unique needs of companies operating in a decentralized environment. Unleashed seeks to bridge the gap between traditional software and the evolving landscape of decentralized business models.",
     "mainURL": "",
-    "img": "unleashed_logo.svg",
+    "img": "unleashed.svg",
     "missionStatement": "To build software solutions tailored for decentralized companies.",
     "inTheMarketYouTubeVideoId": "",
     "links": [
@@ -928,7 +928,7 @@
     "description": "A dual-platform offering both centralized and decentralized financial products.",
     "longDescription": "JAVLIS is a centralized finance platform designed to offer a user-friendly solution for individuals looking to invest fiat currencies into cryptocurrencies. It aims to generate passive income through the dynamics of DeFi. On the other hand, JAVsphere is a decentralized suite of products in the DeFi space, offering a unique set of products and functions. Together, they aim to provide a comprehensive financial solution for both centralized and decentralized finance.",
     "mainURL": "https://javlis.com",
-    "img": "javlis_logo.svg",
+    "img": "javlis.svg",
     "missionStatement": "To offer both centralized and decentralized financial products.",
     "inTheMarketYouTubeVideoId": "",
     "links": [
@@ -985,7 +985,7 @@
     "description": "A project in collaboration with Jellyverse, with details to be announced.",
     "longDescription": "Black Swan is a project that is currently in collaboration with Jellyverse. While specific details about the project are yet to be announced, it is expected to contribute to the DeFi space in a meaningful way. More information will be released soon, and it's advisable to keep an eye on official channels for updates.",
     "mainURL": "",
-    "img": "black-swan_logo.svg",
+    "img": "blackswan.svg",
     "missionStatement": "To collaborate with Jellyverse on a project with details to be announced.",
     "inTheMarketYouTubeVideoId": "",
     "links": [
@@ -1072,7 +1072,7 @@
     "description": "A platform aiming to create self-contained digital entities for a future Metaverse.",
     "longDescription": "Crypto Factor is a visionary project that aims to leverage decentralized services on DeFiMetaChain. The project focuses on the creation of self-contained digital entities designed to operate in a future Metaverse. These entities are intended to generate revenue and income through novel features, exchange digital value, derive utility, interact by proxy on digital media, and interface directly with tokenized assets. The ultimate goal is to provide control and versatility through the ownership of these digital entities, thereby constituting real operations.",
     "mainURL": "",
-    "img": "crypto-factor_logo.svg",
+    "img": "cryptofactor.svg",
     "missionStatement": "To formulate self-contained digital entities that operate in a future Metaverse.",
     "inTheMarketYouTubeVideoId": "",
     "links": [
