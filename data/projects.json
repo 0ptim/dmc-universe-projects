@@ -1,5 +1,46 @@
 [
   {
+    "name": "DMC Universe",
+    "description": "Your Portal to the DeFiMetaChain Galaxy!",
+    "longDescription": "TODO",
+    "mainURL": "https://www.dmc-universe.space",
+    "img": "dmcuniverse.svg",
+    "missionStatement": "TODO",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://twitter.com/DMCUniverse_",
+        "type": "X"
+      },
+      {
+        "url": "https://t.me/DMC_Universe",
+        "type": "Telegram"
+      }
+    ],
+    "team": [
+      {
+        "name": "Peddy",
+        "role": "Founder, Marketing",
+        "links": [
+          {
+            "url": "https://twitter.com/peddy2612",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "0ptim",
+        "role": "Founder, Development",
+        "links": [
+          {
+            "url": "https://twitter.com/0ptim_",
+            "type": "X"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Jellylabs",
     "description": "TODO",
     "longDescription": "TODO",
