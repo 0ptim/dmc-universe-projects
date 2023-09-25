@@ -38,7 +38,9 @@
           }
         ]
       }
-    ]
+    ],
+    "tags": ["Legal Entity", "Explorer"],
+    "fav": false
   },
   {
     "name": "Jellylabs",
