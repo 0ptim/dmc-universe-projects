@@ -26,19 +26,19 @@ You can read more about forking a repository [here](https://docs.github.com/en/g
 ### 2. 👾 Prepare your logo
 
 - Must be a vector SVG
-    - Do not convert JPG/PNG/etc. to SVG
-    - Do not embed JPG/PNG/etc. in the SVG
+  - Do not convert JPG/PNG/etc. to SVG
+  - Do not embed JPG/PNG/etc. in the SVG
 - Must start with the `<svg>` opening element
 - Must end with the `</svg>` closing element
 - Must be scalable
-    - Don't use static width/height attributes, use a `viewBox` instead
+  - Don't use static width/height attributes, use a `viewBox` instead
 - Must not contain whitespace around the SVG
 - Must not include the `doctype` element
 - File name
-    - Must be lowercase
-    - Must not contain spaces
-    - Must not contain special characters
-    - The file name should be the same as the `img` property in the `projects.json` file.
+  - Must be lowercase
+  - Must not contain spaces
+  - Must not contain special characters
+  - The file name should be the same as the `img` property in the `projects.json` file.
 
 The logo should be placed in the [`/media/`](https://github.com/0ptim/dmc-universe-projects/tree/1ac49ea6b43160c3dd12ea4b742105fcd92bf8d4/media) folder.
 
@@ -57,7 +57,6 @@ For a simpler start, you can copy the following template and fill in the details
   "longDescription": "",
   "mainURL": "",
   "img": "",
-  "missionStatement": "",
   "inTheMarketYouTubeVideoId": "",
   "links": [
     {

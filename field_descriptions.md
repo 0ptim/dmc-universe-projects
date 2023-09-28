@@ -8,19 +8,17 @@
 - `description`
   - Project description
   - One sentence that describes your project
-  - Max 80 to 110 characters
+  - Max 65 characters
 - `longDescription`
   - Project long description
   - A few sentences that describe your project
-  - Max 350 characters
+  - Max 1000 characters
 - `mainURL`
   - This is the main URL of your project
   - A big button on the project page will open this URL
 - `img`
   - This is the file name of the SVG of your project
   - Read the [logo requirements](#logo-requirements) for more information
-- `missionStatement`
-  - This is the mission statement of your project
 - `inTheMarketYouTubeVideoId`
   - Here you can add the YouTube video ID of the interview with the InTheMarket podcast
   - The video will be embedded on the project page
