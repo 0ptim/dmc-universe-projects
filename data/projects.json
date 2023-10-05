@@ -1115,5 +1115,98 @@
     ],
     "tags": ["Infrastructure"],
     "fav": false
+  },
+  {
+    "name": "ebox",
+    "description": "Innovative Solutions – Reversible Transactions, 100% DeFi OTC",
+    "longDescription": "ebox provides services and solutions with a unique character, bringing straight-forward innovation and usability to end users and businesses alike.\nWith the spirit of community embedded deep within our hearts and vision of the project, having our roots within the trader, investor & enthusiast community ourselves, we understand the needs of our audience, and adjust dynamically to any challenges along our journey.\nThe ebox On-Chain Escrow offers an unprecedented level of comfort and safety in everyday crypto life through reversible transactions and 100% DeFi OTC trading.",
+    "mainURL": "https://ebox.io",
+    "img": "ebox.svg",
+    "inTheMarketYouTubeVideoId": "",
+    "links": [
+      {
+        "url": "https://t.me/ebox_official",
+        "type": "Telegram"
+      },
+      {
+        "url": "https://t.me/ebox_announcements",
+        "type": "Telegram"
+      },
+      {
+        "url": "https://twitter.com/ebox_official",
+        "type": "X"
+      },
+      {
+        "url": "https://ebox-official.medium.com",
+        "type": "Medium"
+      },
+      {
+        "url": "https://youtube.com/@ebox-official",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://github.com/ebox-official",
+        "type": "GitHub"
+      },
+      {
+        "url": "https://linkedin.com/company/ebox-official",
+        "type": "Website",
+        "label": "LinkedIn"
+      },
+      {
+        "url": "https://ebox.io/apps/escrow-v1",
+        "type": "Website",
+        "label": "ebox On-Chain Escrow"
+      },
+      {
+        "url": "https://ebox.io/apps/liq-lock",
+        "type": "Website",
+        "label": "ebox Liquidity Lock"
+      }
+    ],
+    "team": [
+      {
+        "name": "Lukas S.",
+        "role": "Co-Founder",
+        "links": [
+          {
+            "url": "https://t.me/Lukas_ebox",
+            "type": "Telegram"
+          },
+          {
+            "url": "https://twitter.com/SchieferLukas",
+            "type": "X"
+          },
+          {
+            "url": "https://linkedin.com/in/lukasschiefer",
+            "type": "Website",
+            "label": "LinkedIn"
+          }
+        ]
+      },
+      {
+        "name": "Paul S.",
+        "role": "Co-Founder, Core Dev",
+        "links": [
+          {
+            "url": "https://t.me/Paul_ebox",
+            "type": "Telegram"
+          },
+          {
+            "url": "https://twitter.com/PaulSimode",
+            "type": "X"
+          },
+          {
+            "url": "https://linkedin.com/in/paulsimode",
+            "type": "Website",
+            "label": "LinkedIn"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      ""
+    ],
+    "fav": false
   }
 ]
