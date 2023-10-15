@@ -5,11 +5,11 @@
   },
   {
     "name": "Yield Farming",
-    "tailwindColor": "bg-fuchsia-600"
+    "tailwindColor": "bg-fuchsia-500"
   },
   {
     "name": "Legal Entity",
-    "tailwindColor": "bg-violet-600"
+    "tailwindColor": "bg-violet-500"
   },
   {
     "name": "Infrastructure",
