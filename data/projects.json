@@ -5,7 +5,7 @@
     "description": "A decentralized exchange on DMC, enabling seamless asset swaps.",
     "longDescription": "Vanilla Swap is a decentralized exchange (DEX) built on the DeFiChain ecosystem. It provides a platform for users to swap various digital assets in a secure and decentralized manner. By eliminating the need for intermediaries, Vanilla Swap aims to offer a more transparent and efficient trading experience.",
     "mainURL": "https://vanillaswap.org",
-    "img": "vanillaswap.svg",
+    "img": "vanillaswap",
     "inTheMarketYouTubeVideoId": "",
     "SpotlightXSpaceURL": "https://twitter.com/defichain/status/1707314965260959909",
     "SpotlightXSpaceAudiofile": "vanillaswap.mp3",
