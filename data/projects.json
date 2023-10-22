@@ -1,5 +1,50 @@
 [
   {
+    "slug": "dmcuniverse",
+    "name": "DMC Universe",
+    "description": "Your Portal to the DeFiMetaChain Galaxy!",
+    "longDescription": "???",
+    "mainURL": "https://www.dmc-universe.space",
+    "img": "dmcuniverse",
+    "inTheMarketYouTubeVideoId": "",
+    "SpotlightXSpaceURL": "",
+    "SpotlightXSpaceAudiofile": "",
+    "SpotlightBlogpostURL": "",
+    "links": [
+      {
+        "url": "https://twitter.com/DMCUniverse_",
+        "type": "X"
+      },
+      {
+        "url": "https://t.me/DMC_Universe",
+        "type": "Telegram"
+      }
+    ],
+    "team": [
+      {
+        "name": "Peddy",
+        "role": "Founder, Marketing",
+        "links": [
+          {
+            "url": "https://twitter.com/peddy2612",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "0ptim",
+        "role": "Founder, Development",
+        "links": [
+          {
+            "url": "https://twitter.com/0ptim_",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Legal Entity", "Explorer"]
+  },
+  {
     "slug": "vanillaswap",
     "name": "Vanilla Swap",
     "description": "A decentralized exchange on DMC, enabling seamless asset swaps.",
