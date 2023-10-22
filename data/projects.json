@@ -69,18 +69,6 @@
         "type": "Telegram"
       }
     ],
-    "team": [
-      {
-        "name": "Dominik",
-        "role": "Project Lead",
-        "links": [
-          {
-            "url": "https://twitter.com/Dom1_makeit",
-            "type": "X"
-          }
-        ]
-      }
-    ],
     "tags": ["DEX"]
   }
 ]
