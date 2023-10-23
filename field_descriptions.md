@@ -37,6 +37,10 @@
       - The role of the team member
       - E.g. developer, community manager, etc.
       - Max 20 characters
+    - `img`
+      - This is the file name of the jpg of the team member
+      - The jpg needs to be 1:1 ratio
+      - It needs to be placed in the `/teams` folder
     - `links`
       - This is an array of links to your project
       - Each link is an object, which is described in the [link field](#link-field) section
