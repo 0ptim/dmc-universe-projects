@@ -10,6 +10,7 @@
     "SpotlightXSpaceURL": "",
     "SpotlightXSpaceAudiofile": "",
     "SpotlightBlogpostURL": "",
+    "status": "LiveService",
     "links": [
       {
         "url": "https://twitter.com/DMCUniverse_",
@@ -57,6 +58,7 @@
     "SpotlightXSpaceURL": "https://twitter.com/defichain/status/1707314965260959909",
     "SpotlightXSpaceAudiofile": "vanillaswap.mp3",
     "SpotlightBlogpostURL": "https://blog.defichain.com/spotlight-on-vanillaswap",
+    "status": "NotLaunched",
     "links": [
       {
         "url": "https://twitter.com/VanillaSwap1",

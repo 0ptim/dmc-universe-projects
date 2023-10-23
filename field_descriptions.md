@@ -26,6 +26,13 @@
 - `links`
   - This is an array of links to your project
   - Each link is an object, which is described in the [link field](#link-field) section
+- `status`
+  - This is the status of the project
+  - Possible values are:
+    - `NotLaunched`: The project is not launched yet
+    - `Testnet`: The project is launched on the testnet
+    - `Mainnet`: The project is launched on the mainnet
+    - `LiveService`: The project is live but is not a blockchain project
 - `team`
   - This is an array of team members
   - Each team member is an object with three properties
