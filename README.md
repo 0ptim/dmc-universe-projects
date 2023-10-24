@@ -58,6 +58,15 @@ For a simpler start, you can copy the following template and fill in the details
   "mainURL": "",
   "img": "",
   "inTheMarketYouTubeVideoId": "",
+  "SpotlightXSpaceURL": "",
+  "SpotlightXSpaceAudiofile": "",
+  "SpotlightBlogpostURL": "",
+  "status": "",
+  "customVideo": {
+    "title": "",
+    "description": "",
+    "youTubeVideoId": ""
+  },
   "links": [
     {
       "url": "",
@@ -68,6 +77,7 @@ For a simpler start, you can copy the following template and fill in the details
     {
       "name": "",
       "role": "",
+      "img": "",
       "links": [
         {
           "url": "",
@@ -76,8 +86,7 @@ For a simpler start, you can copy the following template and fill in the details
       ]
     }
   ],
-  "tags": [""],
-  "fav": false
+  "tags": [""]
 }
 ```
 

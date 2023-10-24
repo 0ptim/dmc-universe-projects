@@ -23,9 +23,14 @@
   - Here you can add the YouTube video ID of the interview with the InTheMarket podcast
   - The video will be embedded on the project page
   - You can contact us via our [Telegram group](https://t.me/DMC_Universe), if you'd like to be interviewed
-- `links`
-  - This is an array of links to your project
-  - Each link is an object, which is described in the [link field](#link-field) section
+- `SpotlightXSpaceURL`
+  - The direct URL to the X Space of your project's spotlight
+- `SpotlightXSpaceAudiofile`
+  - The file name of the audio file of your project's spotlight
+  - Needs to be mp3
+  - Needs to be placed in the `/spaces` folder
+- `SpotlightBlogpostURL`
+  - The direct URL to the blog post of your project's spotlight
 - `status`
   - This is the status of the project
   - Possible values are:
@@ -33,6 +38,20 @@
     - `Testnet`: The project is launched on the testnet
     - `Mainnet`: The project is launched on the mainnet
     - `LiveService`: The project is live but is not a blockchain project
+- `customVideo`
+  - You can add a custom video to your project
+  - `title`
+    - The title of the video
+    - Max 25 characters
+  - `description`
+    - The description of the video
+    - Max 100 characters
+  - `youTubeVideoId`
+    - The YouTube video ID of the video
+    - The video will be embedded on the project page
+- `links`
+  - This is an array of links to your project
+  - Each link is an object, which is described in the [link field](#link-field) section
 - `team`
   - This is an array of team members
   - Each team member is an object with three properties
