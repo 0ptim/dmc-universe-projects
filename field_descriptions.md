@@ -22,10 +22,6 @@
   - You can contact us via our [Telegram group](https://t.me/DMC_Universe), if you'd like to be interviewed
 - `SpotlightXSpaceURL`
   - The direct URL to the X Space of your project's spotlight
-- `SpotlightXSpaceAudiofile`
-  - The file name of the audio file of your project's spotlight
-  - Needs to be mp3
-  - Needs to be placed in the `/spaces` folder
 - `SpotlightBlogpostURL`
   - The direct URL to the blog post of your project's spotlight
 - `status`
@@ -91,3 +87,9 @@
     - Only required if the `type` is "Website"
     - This is the text that will be displayed for the link
     - Max 20 characters
+
+### Spotlight Space audio file
+
+The mp3 audio file should be placed in the `/data/spaces` folder and must have the same name as the project ID.
+
+For example, if your project ID is `my-project`, the logo should be named `my-project.mp3`
