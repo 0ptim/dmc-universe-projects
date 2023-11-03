@@ -16,9 +16,6 @@
 - `mainURL`
   - This is the main URL of your project
   - A big button on the project page will open this URL
-- `img`
-  - This is the file name of the SVG of your project
-  - Read the [logo requirements](#logo-requirements) for more information
 - `inTheMarketYouTubeVideoId`
   - Here you can add the YouTube video ID of the interview with the InTheMarket podcast
   - The video will be embedded on the project page

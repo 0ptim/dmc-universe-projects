@@ -40,7 +40,9 @@ You can read more about forking a repository [here](https://docs.github.com/en/g
   - Must not contain special characters
   - The file name should be the same as the `img` property in the `projects.json` file.
 
-The logo should be placed in the [`/media/`](https://github.com/0ptim/dmc-universe-projects/tree/1ac49ea6b43160c3dd12ea4b742105fcd92bf8d4/media) folder.
+The logo should be placed in the [`/data/logos`](https://github.com/0ptim/dmc-universe-projects/tree/1ac49ea6b43160c3dd12ea4b742105fcd92bf8d4/media) folder and must have the same name as the project ID.
+
+For example, if your project ID is `my-project`, the logo should be named `my-project.svg`
 
 ### 3. 📝 Add your project details
 
