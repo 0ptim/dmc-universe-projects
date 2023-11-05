@@ -2,6 +2,14 @@
 
 ## projects.json
 
+- `id`
+  - This is the ID of your project
+  - It must be unique and can only contain lowercase letters, numbers and dashes
+  - Max 20 characters
+  - This will be used in the URL of your project page and in the file names of your project's files
+- `updatedAt`
+  - This is the date when the project was last updated
+  - Format: `YYYY-MM-DDTHH:mm:ss.SSSZ`
 - `name`
   - Project name
   - Max 25 characters

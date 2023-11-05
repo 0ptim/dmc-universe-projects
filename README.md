@@ -54,6 +54,8 @@ For a simpler start, you can copy the following template and fill in the details
 
 ```json
 {
+  "id": "",
+  "updatedAt": "",
   "name": "",
   "description": "",
   "longDescription": "",
