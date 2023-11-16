@@ -67,10 +67,41 @@
     - `img`
       - This is the file name of the jpg of the team member
       - The jpg needs to be 1:1 ratio
-      - It needs to be placed in the `/teams` folder
+      - It needs to be placed in the `/teammembers` folder
     - `links`
       - This is an array of links to your project
       - Each link is an object, which is described in the [link field](#link-field) section
+- `positions`
+  - This is an array of positions
+  - Here you can add open positions for your project
+    - `title`
+      - The title of the position
+      - E.g. developer, community manager, etc.
+      - Max 20 characters
+    - `description`
+      - The description of the position
+      - Max 110 characters
+    - `location`
+      - The location of the position
+      - E.g. Remote, Berlin, etc.
+      - Max 15 characters
+    - `type`
+      - The type of the position
+      - E.g. Full-time, Part-time, etc.
+      - Max 15 characters
+    - `requirements`
+      - This is an array of requirements for the position
+      - Each requirement is a string
+      - Max 40 characters each
+    - `benefits`
+      - This is an array of benefits for the position
+      - Each benefit is a string
+      - Max 40 characters each
+    - `applicationLink`
+      - Link to a website or `mailto:`
+- `tags`
+  - Array of tags/categories this project belongs to
+  - See `/tags.json` for the list of available tags
 
 ### Link object
 
