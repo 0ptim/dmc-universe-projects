@@ -6,14 +6,10 @@
     "description": "Your Portal to the DeFiMetaChain Galaxy!",
     "longDescription": "DMC Universe is your go-to place in the big world of DeFiMetaChain (DMC). No need to jump between different platforms; we bring everything together in one spot for you.\n\n- One Platform: Get to know all DMC projects, from the big names to the new ones.\n\n- Working Together: We're more than just a list. We help people work together, share ideas, and celebrate new things in the DMC world.\n\n- Your Guide: As DMC grows, stay in the know with DMC Universe leading the way.",
     "mainURL": "https://www.dmc-universe.space",
-    "inTheMarketYouTubeVideoId": "",
-    "SpotlightXSpaceURL": "",
-    "SpotlightBlogpostURL": "",
     "status": "LiveService",
-    "customVideo": null,
     "links": [
       {
-        "url": "https://twitter.com/DMCUniverse_",
+        "url": "https://x.com/DMCUniverse_",
         "type": "X"
       },
       {
@@ -28,7 +24,7 @@
         "img": "dmcuniverse_peddy.jpg",
         "links": [
           {
-            "url": "https://twitter.com/peddy2612",
+            "url": "https://x.com/peddy2612",
             "type": "X"
           }
         ]
@@ -39,7 +35,7 @@
         "img": "dmcuniverse_0ptim.jpg",
         "links": [
           {
-            "url": "https://twitter.com/0ptim_",
+            "url": "https://x.com/0ptim_",
             "type": "X"
           }
         ]
@@ -54,14 +50,12 @@
     "description": "A decentralized exchange on DMC, enabling seamless asset swaps.",
     "longDescription": "Vanilla Swap is a decentralized exchange (DEX) built on the DeFiChain ecosystem. It provides a platform for users to swap various digital assets in a secure and decentralized manner. By eliminating the need for intermediaries, Vanilla Swap aims to offer a more transparent and efficient trading experience.",
     "mainURL": "https://vanillaswap.org",
-    "inTheMarketYouTubeVideoId": "",
-    "SpotlightXSpaceURL": "https://twitter.com/defichain/status/1707314965260959909",
+    "SpotlightXSpaceURL": "https://x.com/defichain/status/1707314965260959909",
     "SpotlightBlogpostURL": "https://blog.defichain.com/spotlight-on-vanillaswap",
     "status": "Testnet",
-    "customVideo": null,
     "links": [
       {
-        "url": "https://twitter.com/VanillaSwap1",
+        "url": "https://x.com/VanillaSwap1",
         "type": "X"
       },
       {
@@ -74,5 +68,92 @@
       }
     ],
     "tags": ["DEX"]
+  },
+  {
+    "id": "ebox",
+    "updatedAt": "2023-11-17T00:00:00.000Z",
+    "name": "ebox",
+    "description": "Innovative Solutions – Reversible Transactions, 100% DeFi OTC",
+    "longDescription": "ebox provides services and solutions with a unique character, bringing straight-forward innovation and usability to end users and businesses alike.\n\nWith the spirit of community embedded deep within our hearts and vision of the project, having our roots within the trader, investor & enthusiast community ourselves, we understand the needs of our audience, and adjust dynamically to any challenges along our journey.\n\nThe ebox On-Chain Escrow offers an unprecedented level of comfort and safety in everyday crypto life through reversible transactions and 100% DeFi OTC trading.",
+    "mainURL": "https://ebox.io",
+    "SpotlightXSpaceURL": "https://x.com/i/spaces/1YqGoDNEMbZJv",
+    "SpotlightBlogpostURL": "https://blog.defichain.com/project-spotlight-ebox/",
+    "status": "Testnet",
+    "customVideo": {
+      "title": "Crypto sent to a wrong address?",
+      "description": "Never again with ebox.",
+      "youTubeVideoId": "jA9MufTDSwo"
+    },
+    "links": [
+      {
+        "url": "https://t.me/ebox_official",
+        "type": "Telegram"
+      },
+      {
+        "url": "https://t.me/ebox_announcements",
+        "type": "Telegram"
+      },
+      {
+        "url": "https://x.com/ebox_official",
+        "type": "X"
+      },
+      {
+        "url": "https://ebox-official.medium.com",
+        "type": "Medium"
+      },
+      {
+        "url": "https://youtube.com/@ebox-official",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://github.com/ebox-official",
+        "type": "GitHub"
+      },
+      {
+        "url": "https://linkedin.com/company/ebox-official",
+        "type": "LinkedIn"
+      }
+    ],
+    "team": [
+      {
+        "name": "Lukas S.",
+        "role": "Co-Founder",
+        "img": "ebox_lukas.jpg",
+        "links": [
+          {
+            "url": "https://t.me/Lukas_ebox",
+            "type": "Telegram"
+          },
+          {
+            "url": "https://x.com/SchieferLukas",
+            "type": "X"
+          },
+          {
+            "url": "https://linkedin.com/in/lukasschiefer",
+            "type": "LinkedIn"
+          }
+        ]
+      },
+      {
+        "name": "Paul S.",
+        "role": "Co-Founder, Core Developer",
+        "img": "ebox_paul.jpg",
+        "links": [
+          {
+            "url": "https://t.me/Lukas_ebox",
+            "type": "Telegram"
+          },
+          {
+            "url": "https://x.com/PaulSimode",
+            "type": "X"
+          },
+          {
+            "url": "https://linkedin.com/in/paulsimode",
+            "type": "LinkedIn"
+          }
+        ]
+      }
+    ],
+    "tags": ["Infrastructure"]
   }
 ]
