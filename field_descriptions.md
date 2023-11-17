@@ -45,7 +45,7 @@
     - The title of the video
     - Max 25 characters
   - `description`
-    - The description of the video
+    - A short description of the video
     - Max 100 characters
   - `youTubeVideoId`
     - The YouTube video ID of the video
