@@ -161,7 +161,7 @@
     "updatedAt": "",
     "name": "MetaLend",
     "description": "DeFi Lending at 0% interest! Hedge, Leverage, Time the Top, and more.",
-    "longDescription": "MetaLend is DeFiMetaChain's premier DeFi lending service, granting collateralized loans at 0% interest.\n\nThrough MetaLend, powerful DeFi maneuvers become possible: Advanced users can hedge and leverage their investment, while applying strategies such as "time the top" to maximize efficiency.\n\nDeployed and maintained by ebox, MetaLend's technological foundation is the Liquity protocol, a clockwork of mechanisms conceived to yield a self-stabilizing lending system. Battle-proven on Ethereum with >$800M TVL and Stability Pool, Liquity provides an immutable, trustless and resilient back-end.",
+    "longDescription": "MetaLend is DeFiMetaChain's premier DeFi lending service, granting collateralized loans at 0% interest.\n\nThrough MetaLend, powerful DeFi maneuvers become possible: Advanced users can hedge and leverage their investment, while applying strategies such as \"time the top\" to maximize efficiency.\n\nDeployed and maintained by ebox, MetaLend's technological foundation is the Liquity protocol, a clockwork of mechanisms conceived to yield a self-stabilizing lending system. Battle-proven on Ethereum with >$800M TVL and Stability Pool, Liquity provides an immutable, trustless and resilient back-end.",
     "mainURL": "https://metalend.fi",
     "status": "Testnet",
     "links": [
