@@ -155,5 +155,85 @@
       }
     ],
     "tags": ["Infrastructure"]
+  },
+  {
+    "id": "metalend",
+    "updatedAt": "2023-11-21T00:00:00.000Z",
+    "name": "MetaLend",
+    "description": "DeFi Lending at 0% interest! Hedge, Leverage, Time the Top, and more.",
+    "longDescription": "MetaLend is DeFiMetaChain's premier DeFi lending service, granting collateralized loans at 0% interest.\n\nThrough MetaLend, powerful DeFi maneuvers become possible: Advanced users can hedge and leverage their investment, while applying strategies such as \"time the top\" to maximize efficiency.\n\nDeployed and maintained by ebox, MetaLend's technological foundation is the Liquity protocol, a clockwork of mechanisms conceived to yield a self-stabilizing lending system. Battle-proven on Ethereum with >$800M TVL and Stability Pool, Liquity provides an immutable, trustless and resilient back-end.",
+    "mainURL": "https://metalend.fi",
+    "status": "Testnet",
+    "links": [
+      {
+        "url": "https://t.me/ebox_official",
+        "type": "Telegram"
+      },
+      {
+        "url": "https://t.me/ebox_announcements",
+        "type": "Telegram"
+      },
+      {
+        "url": "https://x.com/ebox_official",
+        "type": "X"
+      },
+      {
+        "url": "https://ebox-official.medium.com",
+        "type": "Medium"
+      },
+      {
+        "url": "https://youtube.com/@ebox-official",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://github.com/ebox-official",
+        "type": "GitHub"
+      },
+      {
+        "url": "https://linkedin.com/company/ebox-official",
+        "type": "LinkedIn"
+      }
+    ],
+    "team": [
+      {
+        "name": "Lukas S.",
+        "role": "Co-Founder",
+        "img": "ebox_lukas.jpg",
+        "links": [
+          {
+            "url": "https://t.me/Lukas_ebox",
+            "type": "Telegram"
+          },
+          {
+            "url": "https://x.com/SchieferLukas",
+            "type": "X"
+          },
+          {
+            "url": "https://linkedin.com/in/lukasschiefer",
+            "type": "LinkedIn"
+          }
+        ]
+      },
+      {
+        "name": "Paul S.",
+        "role": "Co-Founder, Core Developer",
+        "img": "ebox_paul.jpg",
+        "links": [
+          {
+            "url": "https://t.me/Lukas_ebox",
+            "type": "Telegram"
+          },
+          {
+            "url": "https://x.com/PaulSimode",
+            "type": "X"
+          },
+          {
+            "url": "https://linkedin.com/in/paulsimode",
+            "type": "LinkedIn"
+          }
+        ]
+      }
+    ],
+    "tags": ["Infrastructure", "Yield Farming", "Stablecoin"]
   }
 ]
