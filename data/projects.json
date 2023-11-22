@@ -406,14 +406,6 @@
         ]
       }
     ],
-    "tags": [
-      "Marketplace",
-      "Yield Farming",
-      "Infrastructure",
-      "DEX",
-      "Stablecoin",
-      "Bonding",
-      "NFT"
-    ]
+    "tags": ["DEX", "Stablecoin", "Bonding"]
   }
 ]
