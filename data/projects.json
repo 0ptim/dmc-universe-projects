@@ -256,5 +256,164 @@
       }
     ],
     "tags": ["Infrastructure", "Yield Farming", "Stablecoin"]
+  },
+  {
+    "id": "jellyverse",
+    "updatedAt": "",
+    "name": "Jellyverse",
+    "description": "Jellyverse will be the ultimate #DeFi ecosystem",
+    "longDescription": "The vision for developing an ecosystem on DeFiChain/DeFi Meta Chain is deeply rooted in the pursuit of expanded utility and an enhanced user experience, facilitated by the introduction of cutting-edge protocols. In line with this, we present Jellyverse – our unique proposition that brings together the finest crypto protocols and delivers them to DeFiChain users.  In Jellyverse, we are set to pioneer solutions that will propel DeFiChain to unparalleled heights. At the heart of this ecosystem lie thoroughly designed protocols that dramatically enhance the utility of DFI, our native Jellytoken (JLY) and other tokens. But the Jellyverse experience goes beyond just utility – it offers an unparalleled, gamified user journey that we believe will deeply resonate with crypto enthusiasts. Engaging with Jellyverse doesn't just mean fruitful yield farming opportunities; it guarantees an enjoyable and exhilarating journey into the world of DeFi.",
+    "mainURL": "https://jellyverse.org",
+    "status": "NotLaunched",
+    "customVideo": {
+      "title": "jellyverse Explained: DeFi 3.0 - The Next Evolution in Decentralized Finance",
+      "description": "Jellyverse is changing the game in decentralized finance. This video gives you an in-depth look at how Jellyverse protocols are designed to offer more utility, better sustainability, and enhanced user experience. It'll cover jellyswap (the DEX), jellystake (the staking protocol), jUSD (the stable coin) and jellybond (the bonding protocol). Stay ahead of the curve and find out what makes Jellyverse a leader in DeFi 3.0.",
+      "youTubeVideoId": "cFsQetDvB2Q"
+    },
+    "links": [
+      {
+        "url": "https://twitter.com/jlyvrs",
+        "type": "X"
+      },
+      {
+        "url": "https://www.youtube.com/@jellyverse",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://linkedin.com/company/jlyvrs",
+        "type": "LinkedIn"
+      },
+      {
+        "url": "https://www.reddit.com/r/jellyverse/",
+        "type": "Reddit"
+      },
+      {
+        "url": "https://medium.com/@jellyverse",
+        "type": "Medium"
+      },
+      {
+        "url": "https://discord.gg/Japb8fYqRr",
+        "type": "Discord"
+      },
+      {
+        "url": "https://t.me/jlyvrs",
+        "type": "Telegram",
+        "label": "Telegram ENG"
+      },
+      {
+        "url": "https://t.me/jlyvrs_DE",
+        "type": "Telegram",
+        "label": "Telegram DE"
+      },
+      {
+        "url": "https://t.me/jlyvrs_announcements",
+        "type": "Telegram",
+        "label": "Announcement ENG"
+      },
+      {
+        "url": "https://t.me/jlyvrs_ankuendigungen",
+        "type": "Telegram",
+        "label": "Announcement DE"
+      },
+      {
+        "url": "https://coinmarketcap.com/community/profile/jellyverse/",
+        "type": "CoinMarketCap"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/jellyverse/",
+        "type": "CoinMarketCap"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/jellyvers",
+        "type": "CoinGecko"
+      },
+      {
+        "url": "https://www.facebook.com/jlyvrs",
+        "type": "Facebook"
+      },
+      {
+        "url": "https://docs.jellyverse.org/",
+        "type": "Documentation"
+      }
+    ],
+    "team": [
+      {
+        "name": "Santiago",
+        "role": "Operation",
+        "img": "",
+        "links": [
+          {
+            "url": "https://www.linkedin.com/in/santiago-sabater-a264a8182/",
+            "type": "LinkedIn"
+          },
+          {
+            "url": "https://twitter.com/Santiago__Sa",
+            "type": "X"
+          },
+          {
+            "url": "t.me/Santiago_Sabater",
+            "type": "Telegram"
+          }
+        ]
+      },
+      {
+        "name": "Ben",
+        "role": "Marketing",
+        "img": "",
+        "links": [
+          {
+            "url": "https://www.linkedin.com/in/benjamin-rauch/",
+            "type": "LinkedIn"
+          },
+          {
+            "url": "https://twitter.com/benra88",
+            "type": "X"
+          },
+          {
+            "url": "t.me/bentheman88",
+            "type": "Telegram"
+          }
+        ]
+      },
+      {
+        "name": "Lazar",
+        "role": "Design",
+        "img": "",
+        "links": [
+          {
+            "url": "https://twitter.com/LazarJLYVRS",
+            "type": "X"
+          },
+          {
+            "url": "t.me/ImLazar",
+            "type": "Telegram"
+          }
+        ]
+      },
+      {
+        "name": "Jovan",
+        "role": "Tech",
+        "img": "",
+        "links": [
+          {
+            "url": "https://twitter.com/basically_jovan",
+            "type": "X"
+          },
+          {
+            "url": "t.me/basically_jovan",
+            "type": "Telegram"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "Marketplace",
+      "Yield Farming",
+      "Infrastructure",
+      "DEX",
+      "Stablecoin",
+      "Bonding",
+      "NFT"
+    ]
   }
 ]
