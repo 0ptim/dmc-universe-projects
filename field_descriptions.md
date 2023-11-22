@@ -102,6 +102,7 @@
 - `tags`
   - Array of tags/categories this project belongs to
   - See `/tags.json` for the list of available tags
+  - Max 3 tags
 
 ### Link object
 
