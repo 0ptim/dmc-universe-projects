@@ -15,6 +15,11 @@
       {
         "url": "https://t.me/DMC_Universe",
         "type": "Telegram"
+      },
+      {
+        "url": "https://t.me/DMC_Universe_Announcements",
+        "type": "Telegram",
+        "label": "Announcements"
       }
     ],
     "team": [
