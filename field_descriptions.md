@@ -129,8 +129,9 @@
     - If none of the above values match, use "Website"
     - If you want to add a new type, please contact us via our [Telegram group](https://t.me/DMC_Universe)
   - `label`
-    - Only required if the `type` is "Website"
-    - This is the text that will be displayed for the link
+    - Optional
+    - This will override the default label for the link type
+    - Recommended if you have multiple links of the same type like multiple Telegram groups
     - Max 20 characters
 
 ### Spotlight Space audio file
