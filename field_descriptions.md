@@ -53,21 +53,21 @@
 - `links`
   - This is an array of links to your project
   - Each link is an object, which is described in the [link field](#link-field) section
-- `team`
-  - This is an array of team members
-  - Each team member is an object with three properties
+- `initiators`
+  - This is an array of initiators
+  - Each initiator is an object with three properties
     - `name`
-      - The name of the team member
+      - The name of the initiator
       - E.g. first name, nickname, etc.
       - Max 20 characters
     - `role`
-      - The role of the team member
+      - The role of the initiator
       - E.g. developer, community manager, etc.
       - Max 20 characters
     - `img`
-      - This is the file name of the jpg of the team member
+      - This is the file name of the jpg of the initiator
       - The jpg needs to be 1:1 ratio
-      - It needs to be placed in the `/teammembers` folder
+      - It needs to be placed in the `/initiators` folder
     - `links`
       - This is an array of links to your project
       - Each link is an object, which is described in the [link field](#link-field) section

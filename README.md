@@ -75,7 +75,7 @@ For a simpler start, you can copy the following template and fill in the details
       "type": ""
     }
   ],
-  "team": [
+  "initiators": [
     {
       "name": "",
       "role": "",
