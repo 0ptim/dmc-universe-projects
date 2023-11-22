@@ -410,5 +410,35 @@
       }
     ],
     "tags": ["DEX", "Stablecoin", "Bonding"]
+  },
+  {
+    "id": "opendappscloud",
+    "updatedAt": "2023-11-23T00:00:00.000Z",
+    "name": "OpenDApps Cloud",
+    "description": "A decentralized Software-as-a-Service platform for EVM projects",
+    "longDescription": "OpenDApps Cloud gives developers and crypto enthusiasts the tools to deploy smart contracts on the blockchain providing services for them without the need for writing any code or understanding how to manually deploy and manage smart contracts. The platform offers services like token deployments with dynamic tokenomics, staking services, asset backing, native integration with major DEX exchanges, and much more.",
+    "mainURL": "https://opendapps.cloud",
+    "SpotlightXSpaceURL": "https://twitter.com/i/spaces/1lPKqBbQqyQGb",
+    "SpotlightBlogpostURL": "https://blog.defichain.com/spotlight-opendappscloud-decentralized-companies-of-the-future/",
+    "status": "Testnet",
+    "links": [
+      {
+        "url": "https://twitter.com/opendapps_cloud",
+        "type": "X"
+      },
+      {
+        "url": "https://shadowscrypto.medium.com",
+        "type": "Medium"
+      },
+      {
+        "url": "https://t.me/opendappsclouds",
+        "type": "Telegram"
+      },
+      {
+        "url": "https://github.com/orgs/UnleashedBusiness/repositories?q=opendapps&type=all&language=&sort=",
+        "type": "GitHub"
+      }
+    ],
+    "tags": ["Infrastructure"]
   }
 ]
