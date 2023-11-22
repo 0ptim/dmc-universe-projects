@@ -289,11 +289,13 @@
       },
       {
         "url": "https://medium.com/@jellyverse",
-        "type": "Medium"
+        "type": "Medium",
+        "label": "Read the blog"
       },
       {
         "url": "https://discord.gg/Japb8fYqRr",
-        "type": "Discord"
+        "type": "Discord",
+        "label": "Join the Discord"
       },
       {
         "url": "https://t.me/jlyvrs",
