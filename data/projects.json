@@ -342,7 +342,7 @@
       {
         "name": "Santiago",
         "role": "Operation",
-        "img": "",
+        "img": "jellyverse_santiago.png",
         "links": [
           {
             "url": "https://www.linkedin.com/in/santiago-sabater-a264a8182/",
@@ -361,7 +361,7 @@
       {
         "name": "Ben",
         "role": "Marketing",
-        "img": "",
+        "img": "jellyverse_ben.png",
         "links": [
           {
             "url": "https://www.linkedin.com/in/benjamin-rauch/",
@@ -380,7 +380,7 @@
       {
         "name": "Lazar",
         "role": "Design",
-        "img": "",
+        "img": "jellyverse_lazar.png",
         "links": [
           {
             "url": "https://twitter.com/LazarJLYVRS",
@@ -395,7 +395,7 @@
       {
         "name": "Jovan",
         "role": "Tech",
-        "img": "",
+        "img": "jellyverse_Jovan.png",
         "links": [
           {
             "url": "https://twitter.com/basically_jovan",
