@@ -20,6 +20,18 @@
         "url": "https://t.me/DMC_Universe_Announcements",
         "type": "Telegram",
         "label": "Announcements"
+      },
+      {
+        "url": "https://medium.com/@DMCUniverse",
+        "type": "Medium"
+      },
+      {
+        "url": "https://github.com/0ptim/dmc-universe-projects",
+        "type": "GitHub"
+      },
+      {
+        "url": "https://www.youtube.com/@DMCUniverse__",
+        "type": "YouTube"
       }
     ],
     "initiators": [
