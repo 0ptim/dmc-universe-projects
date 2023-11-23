@@ -272,8 +272,9 @@
     },
     "links": [
       {
-        "url": "https://twitter.com/jlyvrs",
-        "type": "X"
+        "url": "https://x.com/jlyvrs",
+        "type": "X",
+        "label": "Follow Jellyverse"
       },
       {
         "url": "https://www.youtube.com/@jellyverse",
@@ -285,7 +286,8 @@
       },
       {
         "url": "https://www.reddit.com/r/jellyverse/",
-        "type": "Reddit"
+        "type": "Reddit",
+        "label": "Join the subreddit"
       },
       {
         "url": "https://medium.com/@jellyverse",
@@ -349,11 +351,11 @@
             "type": "LinkedIn"
           },
           {
-            "url": "https://twitter.com/Santiago__Sa",
+            "url": "https://x.com/Santiago__Sa",
             "type": "X"
           },
           {
-            "url": "t.me/Santiago_Sabater",
+            "url": "https://t.me/Santiago_Sabater",
             "type": "Telegram"
           }
         ]
@@ -368,11 +370,11 @@
             "type": "LinkedIn"
           },
           {
-            "url": "https://twitter.com/benra88",
+            "url": "https://x.com/benra88",
             "type": "X"
           },
           {
-            "url": "t.me/bentheman88",
+            "url": "https://t.me/bentheman88",
             "type": "Telegram"
           }
         ]
@@ -383,11 +385,11 @@
         "img": "jellyverse_lazar.png",
         "links": [
           {
-            "url": "https://twitter.com/LazarJLYVRS",
+            "url": "https://x.com/LazarJLYVRS",
             "type": "X"
           },
           {
-            "url": "t.me/ImLazar",
+            "url": "https://t.me/ImLazar",
             "type": "Telegram"
           }
         ]
@@ -398,11 +400,11 @@
         "img": "jellyverse_Jovan.png",
         "links": [
           {
-            "url": "https://twitter.com/basically_jovan",
+            "url": "https://x.com/basically_jovan",
             "type": "X"
           },
           {
-            "url": "t.me/basically_jovan",
+            "url": "https://t.me/basically_jovan",
             "type": "Telegram"
           }
         ]
