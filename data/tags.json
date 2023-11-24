@@ -1,58 +1,44 @@
 [
   {
-    "name": "Marketplace",
-    "tailwindColor": "bg-pink-500"
+    "name": "Marketplace"
   },
   {
-    "name": "Yield Farming",
-    "tailwindColor": "bg-fuchsia-500"
+    "name": "Yield Farming"
   },
   {
-    "name": "Legal Entity",
-    "tailwindColor": "bg-violet-500"
+    "name": "Legal Entity"
   },
   {
-    "name": "Infrastructure",
-    "tailwindColor": "bg-indigo-500"
+    "name": "Infrastructure"
   },
   {
-    "name": "DEX",
-    "tailwindColor": "bg-blue-500"
+    "name": "DEX"
   },
   {
-    "name": "Domains",
-    "tailwindColor": "bg-cyan-500"
+    "name": "Domains"
   },
   {
-    "name": "Gambling",
-    "tailwindColor": "bg-teal-500"
+    "name": "Gambling"
   },
   {
-    "name": "Game",
-    "tailwindColor": "bg-emerald-500"
+    "name": "Game"
   },
   {
-    "name": "Stablecoin",
-    "tailwindColor": "bg-green-500"
+    "name": "Stablecoin"
   },
   {
-    "name": "Betting",
-    "tailwindColor": "bg-lime-500"
+    "name": "Betting"
   },
   {
-    "name": "Bonding",
-    "tailwindColor": "bg-yellow-500"
+    "name": "Bonding"
   },
   {
-    "name": "Options",
-    "tailwindColor": "bg-amber-500"
+    "name": "Options"
   },
   {
-    "name": "Explorer",
-    "tailwindColor": "bg-orange-500"
+    "name": "Explorer"
   },
   {
-    "name": "NFT",
-    "tailwindColor": "bg-red-500"
+    "name": "NFT"
   }
 ]
