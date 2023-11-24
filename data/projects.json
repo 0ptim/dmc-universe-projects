@@ -175,7 +175,7 @@
         ]
       }
     ],
-    "tags": ["Infrastructure"]
+    "tags": ["Infra"]
   },
   {
     "id": "metalend",
@@ -255,7 +255,7 @@
         ]
       }
     ],
-    "tags": ["Infrastructure", "Yield", "Stablecoin"]
+    "tags": ["Infra", "Yield", "Stablecoin"]
   },
   {
     "id": "jellyverse",
