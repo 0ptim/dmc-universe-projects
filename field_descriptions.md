@@ -2,6 +2,48 @@
 
 ## projects.json
 
+```json
+{
+  "id": "",
+  "updatedAt": "",
+  "name": "",
+  "description": "",
+  "longDescription": "",
+  "mainURL": "",
+  "inTheMarketYouTubeVideoId": "",
+  "SpotlightXSpaceURL": "",
+  "SpotlightBlogpostURL": "",
+  "status": "",
+  "customVideo": {
+    "title": "",
+    "description": "",
+    "youTubeVideoId": ""
+  },
+  "links": [],
+  "initiators": [
+    {
+      "name": "",
+      "role": "",
+      "img": "",
+      "links": []
+    }
+  ],
+  "positions": [
+    {
+      "title": "",
+      "description": "",
+      "location": "",
+      "type": "",
+      "requirements": [""],
+      "benefits": [""],
+      "applicationLink": ""
+    }
+  ],
+  "projectTokenId": "",
+  "tags": [""]
+}
+```
+
 - `id`
   - This is the ID of your project
   - It must be unique and can only contain lowercase letters, numbers and dashes
@@ -99,12 +141,23 @@
       - Max 40 characters each
     - `applicationLink`
       - Link to a website or `mailto:`
+- `projectTokenId`
+  - This is the ID of the project token
+  - The token must exist in the `/data/tokens.json` file
 - `tags`
   - Array of tags/categories this project belongs to
   - See `/tags.json` for the list of available tags
   - Max 3 tags
 
 ### Link object
+
+```json
+{
+  "url": "",
+  "type": "",
+  "label": "" // optional
+}
+```
 
 - This is an array of links to your project
 - Each link is an object with three properties
@@ -133,6 +186,72 @@
     - This will override the default label for the link type
     - Recommended if you have multiple links of the same type like multiple Telegram groups
     - Max 20 characters
+
+### Token object
+
+```json
+{
+  "id": "",
+  "symbol": "",
+  "name": "",
+  "contract": "",
+  "description": "",
+  "decimals": 18,
+  "totalSupply": 1000000,
+  "allocations": [
+    {
+      "category": "",
+      "percentage": 50,
+      "amount": 500000
+    },
+    {
+      "category": "",
+      "percentage": 50,
+      "amount": 500000
+    }
+  ]
+}
+```
+
+- `id`
+  - This is the ID of the token
+  - It must be unique and can only contain lowercase letters, numbers and dashes
+  - Max 20 characters
+- `symbol`
+  - Token symbol
+  - Max 10 characters
+- `name`
+  - Token name
+  - Max 20 characters
+- `contract`
+  - Token contract address
+  - This is the address of the token contract on the MetaChain blockchain
+  - It must be a valid MetaChain address
+- `description`
+  - Token description
+  - One sentence that describes your token
+  - Max 300 characters
+- `decimals`
+  - Token decimals
+  - This is the number of decimals of your token
+  - E.g. 18
+- `totalSupply`
+  - Token total supply
+  - This is the total supply of your token
+  - E.g. 1000000000
+- `allocations`
+  - This is an array of allocations
+  - Each allocation is an object with three properties
+    - `category`
+      - The category of the allocation
+      - E.g. Advisors / Team, Marketing, etc.
+      - Max 40 characters
+    - `percentage`
+      - The percentage of the allocation
+      - E.g. 24
+    - `amount`
+      - The amount of the allocation
+      - E.g. 240000000
 
 ### Spotlight Space audio file
 

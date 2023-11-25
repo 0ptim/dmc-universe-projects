@@ -50,59 +50,6 @@ Add your project details to the [`/data/projects.json`](https://github.com/0ptim
 
 All the fields are described in the [field descriptions](./field_descriptions.md) file.
 
-For a simpler start, you can copy the following template and fill in the details.
-
-```json
-{
-  "id": "",
-  "updatedAt": "",
-  "name": "",
-  "description": "",
-  "longDescription": "",
-  "mainURL": "",
-  "inTheMarketYouTubeVideoId": "",
-  "SpotlightXSpaceURL": "",
-  "SpotlightBlogpostURL": "",
-  "status": "",
-  "customVideo": {
-    "title": "",
-    "description": "",
-    "youTubeVideoId": ""
-  },
-  "links": [
-    {
-      "url": "",
-      "type": ""
-    }
-  ],
-  "initiators": [
-    {
-      "name": "",
-      "role": "",
-      "img": "",
-      "links": [
-        {
-          "url": "",
-          "type": ""
-        }
-      ]
-    }
-  ],
-  "positions": [
-    {
-      "title": "",
-      "description": "",
-      "location": "",
-      "type": "",
-      "requirements": [""],
-      "benefits": [""],
-      "applicationLink": ""
-    }
-  ],
-  "tags": [""]
-}
-```
-
 ### 4. 🔄 Create a pull request
 
 You can read more about creating a pull request [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
