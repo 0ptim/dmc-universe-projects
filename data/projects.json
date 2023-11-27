@@ -345,7 +345,6 @@
     "initiators": [
       {
         "name": "Santiago",
-        "role": "Operation",
         "img": "jellyverse_santiago.png",
         "links": [
           {
@@ -364,7 +363,6 @@
       },
       {
         "name": "Ben",
-        "role": "Marketing",
         "img": "jellyverse_ben.png",
         "links": [
           {
@@ -383,7 +381,6 @@
       },
       {
         "name": "Lazar",
-        "role": "Design",
         "img": "jellyverse_lazar.png",
         "links": [
           {
@@ -398,7 +395,6 @@
       },
       {
         "name": "Jovan",
-        "role": "Tech",
         "img": "jellyverse_Jovan.png",
         "links": [
           {
