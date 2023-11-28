@@ -201,13 +201,8 @@
   "allocations": [
     {
       "category": "",
-      "percentage": 50,
-      "amount": 500000
-    },
-    {
-      "category": "",
-      "percentage": 50,
-      "amount": 500000
+      "percentage": 100,
+      "amount": 1000000
     }
   ]
 }
