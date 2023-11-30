@@ -226,7 +226,7 @@
 - `description`
   - Token description
   - One sentence that describes your token
-  - Max 300 characters
+  - Max 500 characters
 - `decimals`
   - Token decimals
   - This is the number of decimals of your token
