@@ -63,6 +63,7 @@
   - Project long description
   - A few sentences that describe your project
   - Max 1000 characters
+  - You can use `\n\n` to add line breaks
 - `mainURL`
   - This is the main URL of your project
   - A big button on the project page will open this URL
