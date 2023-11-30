@@ -413,7 +413,7 @@
   },
   {
     "id": "opendappscloud",
-    "updatedAt": "2023-11-23T00:00:00.000Z",
+    "updatedAt": "2023-11-30T00:00:00.000Z",
     "name": "OpenDApps Cloud",
     "description": "A decentralized Software-as-a-Service platform for EVM projects",
     "longDescription": "OpenDApps Cloud gives developers and crypto enthusiasts the tools to deploy smart contracts on the blockchain providing services for them without the need for writing any code or understanding how to manually deploy and manage smart contracts. The platform offers services like token deployments with dynamic tokenomics, staking services, asset backing, native integration with major DEX exchanges, and much more.",
@@ -435,10 +435,10 @@
         "type": "Telegram"
       },
       {
-        "url": "https://github.com/orgs/UnleashedBusiness/repositories?q=opendapps&type=all&language=&sort=",
+        "url": "https://github.com/orgs/UnleashedBusiness/repositories?q=opendapps",
         "type": "GitHub"
       }
     ],
-    "tags": ["Infrastructure"]
+    "tags": ["Infra"]
   }
 ]
