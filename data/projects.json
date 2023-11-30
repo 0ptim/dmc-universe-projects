@@ -95,7 +95,7 @@
   },
   {
     "id": "ebox",
-    "updatedAt": "2023-11-17T00:00:00.000Z",
+    "updatedAt": "2023-11-30T00:00:00.000Z",
     "name": "ebox",
     "description": "Innovative Solutions – Reversible Transactions, 100% DeFi OTC",
     "longDescription": "ebox provides services and solutions with a unique character, bringing straight-forward innovation and usability to end users and businesses alike.\n\nWith the spirit of community embedded deep within our hearts and vision of the project, having our roots within the trader, investor & enthusiast community ourselves, we understand the needs of our audience, and adjust dynamically to any challenges along our journey.\n\nThe ebox On-Chain Escrow offers an unprecedented level of comfort and safety in everyday crypto life through reversible transactions and 100% DeFi OTC trading.",
@@ -115,7 +115,8 @@
       },
       {
         "url": "https://t.me/ebox_announcements",
-        "type": "Telegram"
+        "type": "Telegram",
+        "label": "Announcements"
       },
       {
         "url": "https://x.com/ebox_official",
