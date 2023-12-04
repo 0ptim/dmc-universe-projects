@@ -442,5 +442,103 @@
       }
     ],
     "tags": ["Infra"]
+  },
+  {
+    "id": "javsphere",
+    "updatedAt": "2023-12-04T00:00:00.000Z",
+    "name": "Javsphere",
+    "description": "Your Gateway to DeFi Meta Chain Products!",
+    "longDescription": "Welcome to Javsphere – Your Simplified Gateway to the World of DeFi Meta Chain (DMC). Our intuitive user interface makes accessing DMC products effortless, while our smart liquidity management ensures cost-effective capital deployment. With Javsphere, you can maximize your DMC rewards, all within a central hub that streamlines your DeFi experience.\n\nAt Javsphere, we offer next-generation DeFi tokenized asset products, including StakeX for effortless staking, CryoVault for secure long-term investments, Yield Fusion for amplified DMC yields, AutoPilot for an automated portfolio rebalancing and Booster to leverage tokenized assets. Our $JAV token functions as a reward token as well as utility token for our products.",
+    "mainURL": "https://javsphere.com",
+    "SpotlightXSpaceURL": "https://twitter.com/i/spaces/1yNGaZDmbRXJj",
+    "SpotlightBlogpostURL": "https://blog.defichain.com/project-spotlight-javsphere/",
+    "status": "NotLaunched",
+    "customVideo": {
+      "title": "Javsphere is live: products, roadmap and team 👀",
+      "description": "In this video, Mark, Igor and Sebastian reveal the brand new Javsphere landing page including the products, the roadmap and the team.",
+      "youTubeVideoId": "msjmG_dh3Zw"
+    },
+    "links": [
+      {
+        "url": "https://discord.gg/ssfmAn6D5h",
+        "type": "Discord"
+      },
+      {
+        "url": "https://t.me/javsphere",
+        "type": "Telegram"
+      },
+      {
+        "url": "https://www.youtube.com/@javsphere",
+        "type": "YouTube"
+      },
+      {
+        "url": "https://twitter.com/javsphere",
+        "type": "X"
+      }
+    ],
+    "initiators": [
+      {
+        "name": "Mark Pedevilla",
+        "role": "Operations Lead",
+        "img": "javsphere_mark.jpg",
+        "links": [
+          {
+            "url": "https://twitter.com/lordmarkcrypto",
+            "type": "X"
+          },
+          {
+            "url": "https://www.linkedin.com/in/mark-pedevilla-asia",
+            "type": "LinkedIn"
+          }
+        ]
+      },
+      {
+        "name": "Igor Shelkovenkov",
+        "role": "Technology Lead",
+        "img": "javsphere_igor.jpg",
+        "links": [
+          {
+            "url": "https://twitter.com/IgorShelkovenk1",
+            "type": "X"
+          },
+          {
+            "url": "https://www.linkedin.com/in/igorshelkovenkov",
+            "type": "LinkedIn"
+          }
+        ]
+      },
+      {
+        "name": "Sebastian Lang",
+        "role": "Marketing Lead",
+        "img": "javsphere_sebastian.jpg",
+        "links": [
+          {
+            "url": "https://twitter.com/Seppllang",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "title": "Community Manager",
+        "description": "Community-, Communication- & Social Media Skills",
+        "location": "Remote",
+        "type": "Part-time",
+        "requirements": ["Community-, Communication- & Social Media Skills"],
+        "benefits": ["None"],
+        "applicationLink": "https://t.me/@sebastianlang"
+      },
+      {
+        "title": "Marketing Manager",
+        "description": "Marketing Know-How and Experience",
+        "location": "Remote",
+        "type": "Part-time",
+        "requirements": ["Marketing Know-How and Experience"],
+        "benefits": ["None"],
+        "applicationLink": "https://t.me/@sebastianlang"
+      }
+    ],
+    "tags": ["Yield"]
   }
 ]
