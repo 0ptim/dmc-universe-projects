@@ -1,7 +1,7 @@
 [
   {
     "id": "dmcuniverse",
-    "updatedAt": "2023-11-05T00:00:00.000Z",
+    "updatedAt": "2023-12-05T00:00:00.000Z",
     "name": "DMC Universe",
     "description": "Your Portal to the DeFiMetaChain Galaxy!",
     "longDescription": "DMC Universe is your go-to place in the big world of DeFiMetaChain (DMC). No need to jump between different platforms; we bring everything together in one spot for you.\n\n- One Platform: Get to know all DMC projects, from the big names to the new ones.\n\n- Working Together: We're more than just a list. We help people work together, share ideas, and celebrate new things in the DMC world.\n\n- Your Guide: As DMC grows, stay in the know with DMC Universe leading the way.",
@@ -22,6 +22,10 @@
         "url": "https://t.me/DMC_Universe_Announcements",
         "type": "Telegram",
         "label": "Announcements"
+      },
+      {
+        "url": "https://dmcuniverse.beehiiv.com/subscribe",
+        "type": "Newsletter"
       },
       {
         "url": "https://medium.com/@DMCUniverse",
@@ -530,7 +534,11 @@
         "location": "Remote",
         "type": "Part-time",
         "requirements": ["Community-, Communication- & Social Media Skills"],
-        "benefits": ["Explore a thriving DeFi project", "Be part of a new era of bridging crypto with non-crypto worlds", "Experience state-of-the-art marketing and community tools"],
+        "benefits": [
+          "Explore a thriving DeFi project",
+          "Be part of a new era of bridging crypto with non-crypto worlds",
+          "Experience state-of-the-art marketing and community tools"
+        ],
         "applicationLink": "https://t.me/@sebastianlang"
       },
       {
@@ -539,7 +547,11 @@
         "location": "Remote",
         "type": "Part-time",
         "requirements": ["Marketing Know-How and Experience"],
-        "benefits": ["Explore a thriving DeFi project", "Be part of a new era of bridging crypto with non-crypto worlds", "Experience state-of-the-art marketing and community tools"],
+        "benefits": [
+          "Explore a thriving DeFi project",
+          "Be part of a new era of bridging crypto with non-crypto worlds",
+          "Experience state-of-the-art marketing and community tools"
+        ],
         "applicationLink": "https://t.me/@sebastianlang"
       }
     ],
