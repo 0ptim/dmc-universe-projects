@@ -180,6 +180,7 @@
       - "CoinGecko"
       - "Facebook"
       - "Documentation"
+      - "Newsletter"
     - If none of the above values match, use "Website"
     - If you want to add a new type, please contact us via our [Telegram group](https://t.me/DMC_Universe)
   - `label`
