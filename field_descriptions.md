@@ -197,8 +197,8 @@
   "symbol": "",
   "name": "",
   "contract": "",
-  "description": "",
   "decimals": 18,
+  "description": "",
   "totalSupply": 1000000,
   "allocations": [
     {
