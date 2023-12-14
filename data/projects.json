@@ -478,6 +478,14 @@
       {
         "url": "https://twitter.com/javsphere",
         "type": "X"
+      },
+      {
+        "url": "https://docs.javsphere.com/",
+        "type": "Documentation"
+      },
+      {
+        "url": "https://github.com/javsphere",
+        "type": "GitHub"
       }
     ],
     "initiators": [
