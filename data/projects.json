@@ -564,5 +564,39 @@
       }
     ],
     "tags": ["Yield"]
+  },
+  {
+    "id": "millionpixeldfi",
+    "updatedAt": "2023-12-16T00:00:00.000Z",
+    "name": "Million Pixel DFI",
+    "description": "Buy DMC pixels for ads.",
+    "longDescription": "You will get a piece of DeFi Meta Chain history!\n\nThe main use case is online advertising and fun. You can purchase pixels for displaying images (for example, your company or project logo) with a link to your website. Your purchased advertising will be stored in a smart contract on the DeFi Meta Chain and will remain there as long as the DeFi Meta Chain exists, which is essentially forever.\n\nIn addition, with your purchase, you also support the community by burning 🔥 40% of the tokens.",
+    "mainURL": "https://millionpixeldfi.github.io/",
+    "status": "Mainnet",
+    "customVideo": {
+      "title": "How to Buy Pixels on Million Pixel DFI",
+      "description": "Buy pixels, set link, upload image – step-by-step guide.",
+      "youTubeVideoId": "IrRHQK99hpo"
+    },
+    "links": [
+      {
+        "url": "https://x.com/millionpixeldfi",
+        "type": "X"
+      }
+    ],
+    "initiators": [
+      {
+        "name": "Aral",
+        "role": "Developer",
+        "img": "millionpixeldfi_aral.jpg",
+        "links": [
+          {
+            "url": "https://x.com/millionpixeldfi",
+            "type": "X"
+          }
+        ]
+      }
+    ],
+    "tags": ["Marketplace", "Domains"]
   }
 ]
