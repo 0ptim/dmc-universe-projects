@@ -451,7 +451,7 @@
   },
   {
     "id": "javsphere",
-    "updatedAt": "2023-12-04T00:00:00.000Z",
+    "updatedAt": "2024-01-17T00:00:00.000Z",
     "name": "Javsphere",
     "description": "Your Gateway to DeFi Meta Chain Products!",
     "longDescription": "Welcome to Javsphere – Your Simplified Gateway to the World of DeFi Meta Chain (DMC). Our intuitive user interface makes accessing DMC products effortless, while our smart liquidity management ensures cost-effective capital deployment. With Javsphere, you can maximize your DMC rewards, all within a central hub that streamlines your DeFi experience.\n\nAt Javsphere, we offer next-generation DeFi tokenized asset products, including StakeX for effortless staking, CryoVault for secure long-term investments, Yield Fusion for amplified DMC yields, AutoPilot for an automated portfolio rebalancing and Booster to leverage tokenized assets. Our $JAV token functions as a reward token as well as utility token for our products.",
@@ -535,34 +535,6 @@
             "type": "LinkedIn"
           }
         ]
-      }
-    ],
-    "positions": [
-      {
-        "title": "Community Manager",
-        "description": "Community-, Communication- & Social Media Skills",
-        "location": "Remote",
-        "type": "Part-time",
-        "requirements": ["Community-, Communication- & Social Media Skills"],
-        "benefits": [
-          "Explore a thriving DeFi project",
-          "Be part of a new era of bridging crypto with non-crypto worlds",
-          "Experience state-of-the-art marketing and community tools"
-        ],
-        "applicationLink": "https://t.me/@sebastianlang"
-      },
-      {
-        "title": "Marketing Manager",
-        "description": "Marketing Know-How and Experience",
-        "location": "Remote",
-        "type": "Part-time",
-        "requirements": ["Marketing Know-How and Experience"],
-        "benefits": [
-          "Explore a thriving DeFi project",
-          "Be part of a new era of bridging crypto with non-crypto worlds",
-          "Experience state-of-the-art marketing and community tools"
-        ],
-        "applicationLink": "https://t.me/@sebastianlang"
       }
     ],
     "tags": ["Yield"]
