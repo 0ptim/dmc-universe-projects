@@ -1,5 +1,19 @@
 # Field descriptions
 
+## config.json
+
+```json
+{
+  "featuredProjects": []
+}
+```
+
+- `featuredProjects`
+  - This is an array of project IDs
+  - These projects will be featured on the home page
+  - The order of the projects in the array will be the order of the projects on the home page
+  - Only one project is visible at a time and the carousel will automatically switch to the next project after a few seconds
+
 ## projects.json
 
 ```json
