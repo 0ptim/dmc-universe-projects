@@ -1,42 +1,42 @@
 [
   {
-    "id": "dmcuniverse",
-    "updatedAt": "2023-12-05T00:00:00.000Z",
-    "name": "DMC Universe",
+    "id": "blockverse",
+    "updatedAt": "2024-02-23T00:00:00.000Z",
+    "name": "Blockverse",
     "description": "Your Portal to the DeFiMetaChain Galaxy!",
-    "longDescription": "DMC Universe is your go-to place in the big world of DeFiMetaChain (DMC). No need to jump between different platforms; we bring everything together in one spot for you.\n\n- One Platform: Get to know all DMC projects, from the big names to the new ones.\n\n- Working Together: We're more than just a list. We help people work together, share ideas, and celebrate new things in the DMC world.\n\n- Your Guide: As DMC grows, stay in the know with DMC Universe leading the way.",
-    "mainURL": "https://www.dmc-universe.space",
+    "longDescription": "Blockverse is your go-to place in the big world of DeFiMetaChain (DMC). No need to jump between different platforms; we bring everything together in one spot for you.\n\n- One Platform: Get to know all DMC projects, from the big names to the new ones.\n\n- Working Together: We're more than just a list. We help people work together, share ideas, and celebrate new things in the DMC world.\n\n- Your Guide: As DMC grows, stay in the know with Blockverse leading the way.",
+    "mainURL": "https://www.block-verse.space",
     "SpotlightXSpaceURL": "https://twitter.com/i/spaces/1OyKAWmYWkaJb",
     "SpotlightBlogpostURL": "https://blog.defichain.com/project-spotlight-dmc-universe",
     "status": "LiveService",
     "links": [
       {
-        "url": "https://x.com/DMCUniverse_",
+        "url": "https://x.com/???",
         "type": "X"
       },
       {
-        "url": "https://t.me/DMC_Universe",
+        "url": "https://t.me/???",
         "type": "Telegram"
       },
       {
-        "url": "https://t.me/DMC_Universe_Announcements",
+        "url": "https://t.me/???_Announcements",
         "type": "Telegram",
         "label": "Announcements"
       },
       {
-        "url": "https://dmcuniverse.beehiiv.com/subscribe",
+        "url": "https://???.beehiiv.com/subscribe",
         "type": "Newsletter"
       },
       {
-        "url": "https://medium.com/@DMCUniverse",
+        "url": "https://medium.com/@???",
         "type": "Medium"
       },
       {
-        "url": "https://github.com/0ptim/dmc-universe-projects",
+        "url": "https://github.com/0ptim/???-projects",
         "type": "GitHub"
       },
       {
-        "url": "https://www.youtube.com/@DMCUniverse__",
+        "url": "https://www.youtube.com/@???",
         "type": "YouTube"
       }
     ],
@@ -44,7 +44,7 @@
       {
         "name": "Peddy",
         "role": "Project Management",
-        "img": "dmcuniverse_peddy.jpg",
+        "img": "blockverse_peddy.jpg",
         "links": [
           {
             "url": "https://x.com/peddy2612",
@@ -55,7 +55,7 @@
       {
         "name": "0ptim",
         "role": "Lead Development",
-        "img": "dmcuniverse_0ptim.jpg",
+        "img": "blockverse_0ptim.jpg",
         "links": [
           {
             "url": "https://x.com/0ptim_",

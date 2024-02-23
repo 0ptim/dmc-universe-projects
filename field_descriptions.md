@@ -84,7 +84,7 @@
 - `inTheMarketYouTubeVideoId`
   - Here you can add the YouTube video ID of the interview with the InTheMarket podcast
   - The video will be embedded on the project page
-  - You can contact us via our [Telegram group](https://t.me/DMC_Universe), if you'd like to be interviewed
+  - You can contact us via our [Telegram group](https://t.me/???), if you'd like to be interviewed
 - `SpotlightXSpaceURL`
   - The direct URL to the X Space of your project's spotlight
 - `SpotlightBlogpostURL`
@@ -125,7 +125,7 @@
       - This is the file name of the jpg of the initiator
       - The jpg needs to be 1:1 ratio
       - It needs to be placed in the `/initiators` folder
-      - It should be labeled like `dmcuniverse_peddy.jpg`
+      - It should be labeled like `blockverse_peddy.jpg`
     - `links`
       - This is an array of links to your project
       - Each link is an object, which is described in the [link field](#link-field) section
@@ -197,7 +197,7 @@
       - "Documentation"
       - "Newsletter"
     - If none of the above values match, use "Website"
-    - If you want to add a new type, please contact us via our [Telegram group](https://t.me/DMC_Universe)
+    - If you want to add a new type, please contact us via our [Telegram group](https://t.me/???)
   - `label`
     - Optional
     - This will override the default label for the link type

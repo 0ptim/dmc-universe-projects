@@ -1,8 +1,8 @@
 ![](./Projects_GitHub_Banner.png)
 
-# DMC Universe - Projects
+# Blockverse - Projects
 
-This repository contains the projects that are listed on the [DMC Universe](https://www.dmc-universe.space) website.
+This repository contains the projects that are listed on the [Blockverse](https://www.block-verse.space) website.
 
 ## Why is this repository here?
 
@@ -17,7 +17,7 @@ To make it as easy as possible for new projects to added and existing projects t
 3. 📝 Add your project details
 4. 🔄 Create a pull request _(Not documented here)_
 5. 🚦 Wait for possible feedback
-6. 🎉 Your project is now listed on [dmc-universe.space](https://www.dmc-universe.space/)
+6. 🎉 Your project is now listed on [block-verse.space](https://www.block-verse.space)
 
 ### 1. 🔱 Fork this repository
 
@@ -46,7 +46,7 @@ For example, if your project ID is `my-project`, the logo should be named `my-pr
 
 ### 3. 📝 Add your project details
 
-Add your project details to the [`/data/projects.json`](https://github.com/0ptim/dmc-universe-projects/blob/56c9a4d08e3c46bbc6fbb2055de740a684bf4c8d/data/projects.json) file. The file is a JSON array of objects. Each object represents a project.
+Add your project details to the [`/data/projects.json`](https://github.com/0ptim/???-projects/blob/56c9a4d08e3c46bbc6fbb2055de740a684bf4c8d/data/projects.json) file. The file is a JSON array of objects. Each object represents a project.
 
 All the fields are described in the [field descriptions](./field_descriptions.md) file.
 
@@ -58,6 +58,6 @@ You can read more about creating a pull request [here](https://docs.github.com/e
 
 We will review your pull request and either accept it or give you feedback on what needs to be changed.
 
-### 6. 🎉 Your project is now listed on [dmc-universe.space](https://www.dmc-universe.space/)
+### 6. 🎉 Your project is now listed on [block-verse.space](https://www.block-verse.space)
 
-Just go to the [DMC Universe](https://www.dmc-universe.space/) website and search for your project.
+Just go to the [Blockverse](https://www.block-verse.space) website and search for your project.
